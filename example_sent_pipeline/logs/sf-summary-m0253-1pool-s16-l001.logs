@@ -1,0 +1,37 @@
+textPayload: Container called exit(0).
+textPayload: ' --> 分析流程完成！'
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Summary_Report/STAR_FUSION_Summary_report-M0253-1pool_S16_L001.xlsx '
+textPayload: ' --> 本地檔案：STAR_FUSION_Summary_report-M0253-1pool_S16_L001.xlsx '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端資料夾：STAR-FUSION/SF_Reports/M0253-1pool_S16_L001-reports '
+textPayload: ' --> [下載資料夾] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: "  df.fillna('-', inplace=True)"
+textPayload: "/app/task_scripts/starfusion_report_summart.py:81: FutureWarning: Setting\
+textPayload: 'Operation completed over 7 objects/307.2 KiB.                                    '
+textPayload: '/ [7/7 files][307.2 KiB/307.2 KiB] 100% Done                                    '
+textPayload: '/ [6/7 files][302.4 KiB/307.2 KiB]  98% Done                                    '
+textPayload: '/ [5/7 files][265.8 KiB/307.2 KiB]  86% Done                                    '
+textPayload: '/ [4/7 files][261.0 KiB/307.2 KiB]  84% Done                                    '
+textPayload: '/ [3/7 files][ 11.5 KiB/307.2 KiB]   3% Done                                    '
+textPayload: '/ [2/7 files][  6.7 KiB/307.2 KiB]   2% Done                                    '
+textPayload: '/ [1/7 files][  6.7 KiB/307.2 KiB]   2% Done                                    '
+textPayload: '/ [0/7 files][    0.0 B/307.2 KiB]   0% Done                                    '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/SF_Reports/M0253-1pool_S16_L001-reports/group_pair_counts_primer_starfusion.xlsx...
+textPayload: '/ [0/7 files][    0.0 B/307.2 KiB]   0% Done                                    '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/SF_Reports/M0253-1pool_S16_L001-reports/group_pair_counts_primer_preprocess.xlsx...
+textPayload: '/ [0/7 files][    0.0 B/307.2 KiB]   0% Done                                    '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/SF_Reports/M0253-1pool_S16_L001-reports/group_pair_counts_gene_starfusion.xlsx...
+textPayload: '/ [0/7 files][    0.0 B/307.2 KiB]   0% Done                                    '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/SF_Reports/M0253-1pool_S16_L001-reports/group_pair_counts_gene_preprocess.xlsx...
+textPayload: '/ [0/7 files][    0.0 B/307.2 KiB]   0% Done                                    '
+textPayload: '/ [0/7 files][    0.0 B/307.2 KiB]   0% Done                                    '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/SF_Reports/M0253-1pool_S16_L001-reports/cutadapt_report.json...
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/SF_Reports/M0253-1pool_S16_L001-reports/STAR_Log.final.out...
+textPayload: '/ [0/7 files][    0.0 B/307.2 KiB]   0% Done                                    '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/SF_Reports/M0253-1pool_S16_L001-reports/Annotated_featurecount.xlsx...

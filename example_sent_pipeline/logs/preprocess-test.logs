@@ -1,0 +1,2329 @@
+textPayload: Container called exit(0).
+textPayload: ' --> 分析流程完成！'
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/RNA-CLH74_S12_L001-reports '
+textPayload: ' --> 本地檔案：RNA-CLH74_S12_L001-preprocess/*.xlsx '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/RNA-CLH74_S12_L001-reports/cutadapt_report.json '
+textPayload: ' --> 本地檔案：RNA-CLH74_S12_L001-preprocess/cutadapt_report.json '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/Fusion_Preprocessed/RNA-CLH74_S12_L001-preprocess '
+textPayload: ' --> 本地資料夾：RNA-CLH74_S12_L001-preprocess '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/raw_fastq/RNA-CLH74_S12_L001* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 2 objects/41.9 KiB.                                     '
+textPayload: '/ [2 files][ 41.9 KiB/ 41.9 KiB]                                                '
+textPayload: '/ [1 files][  9.9 KiB/ 41.9 KiB]                                                '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/group_pair_counts_primer_preprocess.xlsx
+textPayload: '/ [1 files][  9.9 KiB/  9.9 KiB]                                                '
+textPayload: '/ [0 files][    0.0 B/  9.9 KiB]                                                '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/group_pair_counts_gene_preprocess.xlsx
+textPayload: 'Operation completed over 14 objects/126.3 MiB.                                   '
+textPayload: '\ [14/14 files][126.3 MiB/126.3 MiB] 100% Done                                  '
+textPayload: '\ [13/14 files][112.8 MiB/126.3 MiB]  89% Done                                  '
+textPayload: \
+textPayload: '- [12/14 files][ 72.0 MiB/126.3 MiB]  57% Done                                  '
+textPayload: '-'
+textPayload: '/ [11/14 files][ 33.9 MiB/126.3 MiB]  26% Done                                  '
+textPayload: '/ [10/14 files][ 25.1 MiB/126.3 MiB]  19% Done                                  '
+textPayload: '/ [9/14 files][  8.9 MiB/126.3 MiB]   7% Done                                   '
+textPayload: '/ [8/14 files][  8.1 MiB/126.3 MiB]   6% Done                                   '
+textPayload: '/ [7/14 files][  3.7 MiB/126.3 MiB]   2% Done                                   '
+textPayload: '/ [6/14 files][  3.7 MiB/126.3 MiB]   2% Done                                   '
+textPayload: '/ [5/14 files][  1.7 MiB/126.3 MiB]   1% Done                                   '
+textPayload: '/ [4/14 files][  1.7 MiB/126.3 MiB]   1% Done                                   '
+textPayload: '/ [3/14 files][  1.7 MiB/126.3 MiB]   1% Done                                   '
+textPayload: '/ [2/14 files][  1.7 MiB/126.3 MiB]   1% Done                                   '
+textPayload: '/ [1/14 files][  1.3 MiB/126.3 MiB]   1% Done                                   '
+textPayload: '/ [0/14 files][630.7 KiB/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz
+textPayload: '/ [0/14 files][598.7 KiB/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R1.fastq.gz
+textPayload: '/ [0/14 files][    0.0 B/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz
+textPayload: '/ [0/14 files][    0.0 B/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R2.fastq.gz
+textPayload: '/ [0/14 files][    0.0 B/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R2.fastq.gz_trimming_report.txt
+textPayload: '/ [0/14 files][    0.0 B/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R1.fastq.gz_trimming_report.txt
+textPayload: '/ [0/14 files][    0.0 B/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/fastqc/primer_trimmed_R1_val_1_fastqc.zip
+textPayload: '/ [0/14 files][    0.0 B/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/fastqc/primer_trimmed_R1_val_1_fastqc.html
+textPayload: '/ [0/14 files][    0.0 B/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/fastqc/primer_trimmed_R2_val_2_fastqc.html
+textPayload: '/ [0/14 files][    0.0 B/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/cutadapt_report.json [Content-Type=application/json]...
+textPayload: '/ [0/14 files][    0.0 B/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/fastqc/primer_trimmed_R2_val_2_fastqc.zip
+textPayload: '/ [0/14 files][    0.0 B/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/cutadapt_info.txt [Content-Type=text/plain]...
+textPayload: '/ [0/14 files][    0.0 B/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/group_pair_counts_primer_preprocess.xlsx
+textPayload: '/ [0/14 files][    0.0 B/126.3 MiB]   0% Done                                   '
+textPayload: Copying file://RNA-CLH74_S12_L001-preprocess/group_pair_counts_gene_preprocess.xlsx
+textPayload: ====================================================================================================
+textPayload: Deleting both intermediate output files primer_trimmed_R1_trimmed.fq.gz
+textPayload: Analysis complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 95% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 90% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 85% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 80% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 75% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 70% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 65% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 60% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 55% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 50% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 45% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 40% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 35% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 30% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 25% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 20% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 15% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 10% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Approx 5% complete for primer_trimmed_R2_val_2.fq.gz
+textPayload: Started analysis of primer_trimmed_R2_val_2.fq.gz
+textPayload: application/gzip
+textPayload: '  >>> Now running FastQC on the validated data primer_trimmed_R2_val_2.fq.gz<<<'
+textPayload: Analysis complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 95% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 90% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 85% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 80% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 75% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 70% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 65% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 60% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 55% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 50% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 45% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 40% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 35% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 30% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 25% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 20% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 15% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 10% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Approx 5% complete for primer_trimmed_R1_val_1.fq.gz
+textPayload: Started analysis of primer_trimmed_R1_val_1.fq.gz
+textPayload: application/gzip
+textPayload: '  >>> Now running FastQC on the validated data primer_trimmed_R1_val_1.fq.gz<<<'
+textPayload: 'Number of sequence pairs removed because at least one read was shorter
+textPayload: 'Total number of sequences analysed: 174241'
+textPayload: Writing validated paired-end Read 2 reads to primer_trimmed_R2_val_2.fq.gz
+textPayload: Writing validated paired-end Read 1 reads to primer_trimmed_R1_val_1.fq.gz
+textPayload: '>>>>> Now validing the length of the 2 paired-end infiles: primer_trimmed_R1_trimmed.fq.gz
+textPayload: 'file_1: primer_trimmed_R1_trimmed.fq.gz, file_2: primer_trimmed_R2_trimmed.fq.gz'
+textPayload: Validate paired-end files primer_trimmed_R1_trimmed.fq.gz and primer_trimmed_R2_trimmed.fq.gz
+textPayload: The length threshold of paired-end sequences gets evaluated later on
+textPayload: 174241 sequences processed in total
+textPayload: =============================================
+textPayload: 'RUN STATISTICS FOR INPUT FILE: RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R2.fastq.gz'
+textPayload: "136\t1\t0.0\t1\t0 1"
+textPayload: "133\t1\t0.0\t1\t0 1"
+textPayload: "132\t89\t0.0\t1\t19 70"
+textPayload: "131\t68\t0.0\t1\t43 25"
+textPayload: "130\t23\t0.0\t1\t10 13"
+textPayload: "129\t84\t0.0\t1\t65 19"
+textPayload: "128\t95\t0.0\t1\t48 47"
+textPayload: "127\t112\t0.0\t1\t98 14"
+textPayload: "126\t178\t0.0\t1\t153 25"
+textPayload: "125\t174\t0.0\t1\t148 26"
+textPayload: "124\t135\t0.0\t1\t118 17"
+textPayload: "123\t112\t0.0\t1\t96 16"
+textPayload: "122\t131\t0.0\t1\t111 20"
+textPayload: "121\t72\t0.0\t1\t57 15"
+textPayload: "120\t97\t0.0\t1\t86 11"
+textPayload: "119\t294\t0.0\t1\t271 23"
+textPayload: "118\t250\t0.0\t1\t230 20"
+textPayload: "117\t276\t0.0\t1\t262 14"
+textPayload: "116\t464\t0.0\t1\t432 32"
+textPayload: "115\t573\t0.0\t1\t535 38"
+textPayload: "114\t415\t0.0\t1\t373 42"
+textPayload: "113\t376\t0.0\t1\t332 44"
+textPayload: "112\t299\t0.0\t1\t273 26"
+textPayload: "111\t269\t0.0\t1\t237 32"
+textPayload: "110\t285\t0.0\t1\t268 17"
+textPayload: "109\t234\t0.0\t1\t210 24"
+textPayload: "108\t179\t0.0\t1\t158 21"
+textPayload: "107\t118\t0.0\t1\t99 19"
+textPayload: "106\t89\t0.0\t1\t75 14"
+textPayload: "105\t127\t0.0\t1\t101 26"
+textPayload: "104\t142\t0.0\t1\t103 39"
+textPayload: "103\t108\t0.0\t1\t76 32"
+textPayload: "102\t89\t0.0\t1\t68 21"
+textPayload: "101\t50\t0.0\t1\t38 12"
+textPayload: "100\t80\t0.0\t1\t61 19"
+textPayload: "99\t37\t0.0\t1\t29 8"
+textPayload: "98\t34\t0.0\t1\t20 14"
+textPayload: "97\t58\t0.0\t1\t47 11"
+textPayload: "96\t47\t0.0\t1\t45 2"
+textPayload: "95\t28\t0.0\t1\t19 9"
+textPayload: "94\t34\t0.0\t1\t25 9"
+textPayload: "93\t29\t0.0\t1\t17 12"
+textPayload: "92\t23\t0.0\t1\t17 6"
+textPayload: "91\t18\t0.0\t1\t13 5"
+textPayload: "90\t13\t0.0\t1\t10 3"
+textPayload: "89\t13\t0.0\t1\t11 2"
+textPayload: "88\t16\t0.0\t1\t13 3"
+textPayload: "87\t10\t0.0\t1\t8 2"
+textPayload: "86\t15\t0.0\t1\t13 2"
+textPayload: "85\t43\t0.0\t1\t42 1"
+textPayload: "84\t184\t0.0\t1\t178 6"
+textPayload: "83\t865\t0.0\t1\t841 24"
+textPayload: "82\t4152\t0.0\t1\t4048 104"
+textPayload: "81\t17208\t0.0\t1\t16914 294"
+textPayload: "80\t28721\t0.0\t1\t28141 580"
+textPayload: "79\t20982\t0.0\t1\t20462 520"
+textPayload: "78\t14935\t0.0\t1\t14601 334"
+textPayload: "77\t8934\t0.0\t1\t8752 182"
+textPayload: "76\t3693\t0.0\t1\t3606 87"
+textPayload: "75\t2348\t0.0\t1\t2299 49"
+textPayload: "74\t1190\t0.0\t1\t1151 39"
+textPayload: "73\t688\t0.0\t1\t667 21"
+textPayload: "72\t428\t0.0\t1\t420 8"
+textPayload: "71\t345\t0.0\t1\t342 3"
+textPayload: "70\t495\t0.0\t1\t483 12"
+textPayload: "69\t150\t0.0\t1\t147 3"
+textPayload: "68\t151\t0.0\t1\t151"
+textPayload: "67\t164\t0.0\t1\t162 2"
+textPayload: "66\t134\t0.0\t1\t131 3"
+textPayload: "65\t203\t0.0\t1\t200 3"
+textPayload: "64\t308\t0.0\t1\t300 8"
+textPayload: "63\t19\t0.0\t1\t15 4"
+textPayload: "62\t2012\t0.0\t1\t1975 37"
+textPayload: "61\t525\t0.0\t1\t506 19"
+textPayload: "60\t22\t0.0\t1\t18 4"
+textPayload: "59\t1735\t0.0\t1\t1711 24"
+textPayload: "58\t1142\t0.0\t1\t1130 12"
+textPayload: "57\t56\t0.0\t1\t47 9"
+textPayload: "56\t16\t0.0\t1\t11 5"
+textPayload: "55\t3379\t0.0\t1\t3327 52"
+textPayload: "54\t148\t0.0\t1\t126 22"
+textPayload: "53\t46\t0.0\t1\t37 9"
+textPayload: "52\t10002\t0.0\t1\t9857 145"
+textPayload: "51\t2389\t0.0\t1\t2290 99"
+textPayload: "50\t2911\t0.0\t1\t2864 47"
+textPayload: "49\t1875\t0.0\t1\t1835 40"
+textPayload: "48\t2818\t0.0\t1\t2785 33"
+textPayload: "47\t172\t0.0\t1\t151 21"
+textPayload: "46\t4438\t0.0\t1\t4398 40"
+textPayload: "45\t1219\t0.0\t1\t1197 22"
+textPayload: "44\t58\t0.0\t1\t51 7"
+textPayload: "43\t2440\t0.0\t1\t2409 31"
+textPayload: "42\t132\t0.0\t1\t108 24"
+textPayload: "41\t945\t0.0\t1\t923 22"
+textPayload: "40\t485\t0.0\t1\t469 16"
+textPayload: "39\t26\t0.0\t1\t18 8"
+textPayload: "38\t660\t0.0\t1\t646 14"
+textPayload: "37\t897\t0.0\t1\t887 10"
+textPayload: "36\t270\t0.0\t1\t265 5"
+textPayload: "35\t174\t0.0\t1\t174"
+textPayload: "34\t5\t0.0\t1\t3 2"
+textPayload: "33\t127\t0.0\t1\t122 5"
+textPayload: "32\t5\t0.0\t1\t4 1"
+textPayload: "31\t525\t0.0\t1\t518 7"
+textPayload: "30\t29\t0.0\t1\t27 2"
+textPayload: "29\t998\t0.0\t1\t966 32"
+textPayload: "28\t25\t0.0\t1\t22 3"
+textPayload: "27\t384\t0.0\t1\t372 12"
+textPayload: "26\t235\t0.0\t1\t230 5"
+textPayload: "25\t194\t0.0\t1\t189 5"
+textPayload: "24\t2\t0.0\t1\t2"
+textPayload: "21\t364\t0.0\t1\t357 7"
+textPayload: "20\t103\t0.0\t1\t99 4"
+textPayload: "19\t2\t0.0\t1\t1 1"
+textPayload: "18\t124\t0.0\t1\t122 2"
+textPayload: "17\t1\t0.0\t1\t0 1"
+textPayload: "16\t122\t0.0\t1\t120 2"
+textPayload: "15\t37\t0.0\t1\t36 1"
+textPayload: "13\t125\t0.0\t1\t122 3"
+textPayload: "12\t2\t0.0\t1\t0 2"
+textPayload: "11\t550\t0.0\t1\t550"
+textPayload: "10\t4\t0.2\t1\t0 4"
+textPayload: "9\t722\t0.7\t0\t722"
+textPayload: "8\t49\t2.7\t0\t49"
+textPayload: "5\t590\t170.2\t0\t590"
+textPayload: "4\t64\t680.6\t0\t64"
+textPayload: "3\t135\t2722.5\t0\t135"
+textPayload: "1\t1846\t43560.2\t0\t1846"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '  none/other: 0.0%'
+textPayload: '  T: 35.3%'
+textPayload: '  G: 21.6%'
+textPayload: '  C: 21.0%'
+textPayload: '  A: 22.1%'
+textPayload: 'Bases preceding removed adapters:'
+textPayload: '1-9 bp: 0; 10-13 bp: 1'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 1'
+textPayload: "Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 161165\
+textPayload: === Adapter 1 ===
+textPayload: 'Total written (filtered):      8,593,383 bp (43.2%)'
+textPayload: 'Quality-trimmed:                       0 bp (0.0%)'
+textPayload: 'Total basepairs processed:    19,885,311 bp'
+textPayload: 'Reads written (passing filters):       174,241 (100.0%)'
+textPayload: 'Reads with adapters:                   161,165 (92.5%)'
+textPayload: 'Total reads processed:                 174,241'
+textPayload: === Summary ===
+textPayload: Processing single-end reads on 8 cores ...
+textPayload: 'Command line parameters: -j 8 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R2.fastq.gz'
+textPayload: This is cutadapt 5.0 with Python 3.12.8
+textPayload: "  >>> Now performing quality (cutoff '-q 20') and adapter trimming in\
+textPayload: Writing final adapter and quality trimmed output to primer_trimmed_R2_trimmed.fq.gz
+textPayload: Cutadapt seems to be fairly up-to-date (version 5.0). Setting -j -j 8
+textPayload: Output file(s) will be GZIP compressed
+textPayload: "Running FastQC with the following extra arguments: '--outdir tmp/fastqc'"
+textPayload: Running FastQC on the data once trimming has completed
+textPayload: 'Minimum required sequence length for both reads before a sequence pair
+textPayload: 'Minimum required adapter overlap (stringency): 1 bp'
+textPayload: 'Maximum trimming error rate: 0.1 (default)'
+textPayload: "Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; user\
+textPayload: 'Quality encoding type selected: ASCII+33'
+textPayload: 'Quality Phred score cutoff: 20'
+textPayload: 'Number of cores used for trimming: 8'
+textPayload: 'Python version: 3.12.8'
+textPayload: 'Cutadapt version: 5.0'
+textPayload: 'Trim Galore version: 0.6.10'
+textPayload: 'Trimming mode: paired-end'
+textPayload: 'Input filename: RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R2.fastq.gz'
+textPayload: ==========================
+textPayload: SUMMARISING RUN PARAMETERS
+textPayload: Writing report to '/app/RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R2.fastq.gz_trimming_report.txt'
+textPayload: The length threshold of paired-end sequences gets evaluated later on
+textPayload: 174241 sequences processed in total
+textPayload: =============================================
+textPayload: 'RUN STATISTICS FOR INPUT FILE: RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R1.fastq.gz'
+textPayload: "132\t46\t0.0\t1\t44 2"
+textPayload: "131\t61\t0.0\t1\t58 3"
+textPayload: "130\t33\t0.0\t1\t29 4"
+textPayload: "129\t124\t0.0\t1\t123 1"
+textPayload: "128\t81\t0.0\t1\t74 7"
+textPayload: "127\t163\t0.0\t1\t160 3"
+textPayload: "126\t278\t0.0\t1\t271 7"
+textPayload: "125\t281\t0.0\t1\t275 6"
+textPayload: "124\t216\t0.0\t1\t212 4"
+textPayload: "123\t181\t0.0\t1\t177 4"
+textPayload: "122\t265\t0.0\t1\t258 7"
+textPayload: "121\t100\t0.0\t1\t99 1"
+textPayload: "120\t155\t0.0\t1\t153 2"
+textPayload: "119\t526\t0.0\t1\t502 24"
+textPayload: "118\t423\t0.0\t1\t408 15"
+textPayload: "117\t502\t0.0\t1\t479 23"
+textPayload: "116\t1124\t0.0\t1\t1077 47"
+textPayload: "115\t1099\t0.0\t1\t1071 28"
+textPayload: "114\t863\t0.0\t1\t841 22"
+textPayload: "113\t798\t0.0\t1\t780 18"
+textPayload: "112\t696\t0.0\t1\t675 21"
+textPayload: "111\t554\t0.0\t1\t540 14"
+textPayload: "110\t654\t0.0\t1\t636 18"
+textPayload: "109\t599\t0.0\t1\t586 13"
+textPayload: "108\t474\t0.0\t1\t464 10"
+textPayload: "107\t264\t0.0\t1\t258 6"
+textPayload: "106\t251\t0.0\t1\t247 4"
+textPayload: "105\t286\t0.0\t1\t280 6"
+textPayload: "104\t226\t0.0\t1\t219 7"
+textPayload: "103\t172\t0.0\t1\t166 6"
+textPayload: "102\t157\t0.0\t1\t147 10"
+textPayload: "101\t128\t0.0\t1\t117 11"
+textPayload: "100\t160\t0.0\t1\t156 4"
+textPayload: "99\t102\t0.0\t1\t102"
+textPayload: "98\t75\t0.0\t1\t68 7"
+textPayload: "97\t162\t0.0\t1\t152 10"
+textPayload: "96\t159\t0.0\t1\t109 50"
+textPayload: "95\t69\t0.0\t1\t54 15"
+textPayload: "94\t101\t0.0\t1\t47 54"
+textPayload: "93\t44\t0.0\t1\t36 8"
+textPayload: "92\t45\t0.0\t1\t45"
+textPayload: "91\t32\t0.0\t1\t31 1"
+textPayload: "90\t44\t0.0\t1\t43 1"
+textPayload: "89\t19\t0.0\t1\t18 1"
+textPayload: "88\t24\t0.0\t1\t23 1"
+textPayload: "87\t22\t0.0\t1\t22"
+textPayload: "86\t14\t0.0\t1\t14"
+textPayload: "85\t17\t0.0\t1\t16 1"
+textPayload: "84\t19\t0.0\t1\t18 1"
+textPayload: "83\t6\t0.0\t1\t6"
+textPayload: "82\t3\t0.0\t1\t3"
+textPayload: "81\t10\t0.0\t1\t10"
+textPayload: "80\t11\t0.0\t1\t11"
+textPayload: "79\t6\t0.0\t1\t6"
+textPayload: "78\t6\t0.0\t1\t6"
+textPayload: "77\t9\t0.0\t1\t9"
+textPayload: "76\t5\t0.0\t1\t5"
+textPayload: "75\t4\t0.0\t1\t4"
+textPayload: "74\t1\t0.0\t1\t1"
+textPayload: "71\t1\t0.0\t1\t1"
+textPayload: "70\t1\t0.0\t1\t1"
+textPayload: "69\t5\t0.0\t1\t3 2"
+textPayload: "68\t409\t0.0\t1\t397 12"
+textPayload: "67\t1126\t0.0\t1\t1051 75"
+textPayload: "66\t126790\t0.0\t1\t124939 1851"
+textPayload: "65\t9233\t0.0\t1\t8150 1083"
+textPayload: "64\t792\t0.0\t1\t728 64"
+textPayload: "63\t296\t0.0\t1\t288 8"
+textPayload: "62\t18\t0.0\t1\t17 1"
+textPayload: "61\t312\t0.0\t1\t308 4"
+textPayload: "60\t161\t0.0\t1\t159 2"
+textPayload: "59\t141\t0.0\t1\t138 3"
+textPayload: "58\t98\t0.0\t1\t92 6"
+textPayload: "57\t108\t0.0\t1\t107 1"
+textPayload: "56\t102\t0.0\t1\t99 3"
+textPayload: "55\t7\t0.0\t1\t7"
+textPayload: "54\t371\t0.0\t1\t363 8"
+textPayload: "53\t120\t0.0\t1\t115 5"
+textPayload: "52\t9\t0.0\t1\t8 1"
+textPayload: "51\t190\t0.0\t1\t187 3"
+textPayload: "50\t93\t0.0\t1\t90 3"
+textPayload: "49\t85\t0.0\t1\t83 2"
+textPayload: "48\t7\t0.0\t1\t5 2"
+textPayload: "47\t1609\t0.0\t1\t1594 15"
+textPayload: "46\t156\t0.0\t1\t149 7"
+textPayload: "45\t91\t0.0\t1\t89 2"
+textPayload: "44\t226\t0.0\t1\t222 4"
+textPayload: "43\t12\t0.0\t1\t9 3"
+textPayload: "42\t161\t0.0\t1\t157 4"
+textPayload: "41\t140\t0.0\t1\t137 3"
+textPayload: "40\t285\t0.0\t1\t280 5"
+textPayload: "39\t244\t0.0\t1\t242 2"
+textPayload: "38\t18\t0.0\t1\t17 1"
+textPayload: "37\t171\t0.0\t1\t168 3"
+textPayload: "36\t59\t0.0\t1\t58 1"
+textPayload: "35\t81\t0.0\t1\t81"
+textPayload: "34\t56\t0.0\t1\t53 3"
+textPayload: "33\t35\t0.0\t1\t35"
+textPayload: "32\t62\t0.0\t1\t61 1"
+textPayload: "31\t33\t0.0\t1\t32 1"
+textPayload: "30\t1\t0.0\t1\t1"
+textPayload: "29\t82\t0.0\t1\t82"
+textPayload: "28\t41\t0.0\t1\t39 2"
+textPayload: "27\t41\t0.0\t1\t41"
+textPayload: "26\t23\t0.0\t1\t22 1"
+textPayload: "25\t66\t0.0\t1\t64 2"
+textPayload: "24\t33\t0.0\t1\t31 2"
+textPayload: "23\t31\t0.0\t1\t31"
+textPayload: "21\t75\t0.0\t1\t75"
+textPayload: "20\t65\t0.0\t1\t65"
+textPayload: "19\t21\t0.0\t1\t21"
+textPayload: "17\t44\t0.0\t1\t43 1"
+textPayload: "16\t28\t0.0\t1\t28"
+textPayload: "15\t16\t0.0\t1\t15 1"
+textPayload: "14\t56\t0.0\t1\t54 2"
+textPayload: "13\t23\t0.0\t1\t22 1"
+textPayload: "11\t1160\t0.0\t1\t1155 5"
+textPayload: "10\t1\t0.2\t1\t0 1"
+textPayload: "9\t105\t0.7\t0\t105"
+textPayload: "8\t38\t2.7\t0\t38"
+textPayload: "7\t1\t10.6\t0\t1"
+textPayload: "5\t545\t170.2\t0\t545"
+textPayload: "4\t60\t680.6\t0\t60"
+textPayload: "3\t125\t2722.5\t0\t125"
+textPayload: "2\t6\t10890.1\t0\t6"
+textPayload: "1\t839\t43560.2\t0\t839"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '  none/other: 0.0%'
+textPayload: '  T: 20.5%'
+textPayload: '  G: 24.4%'
+textPayload: '  C: 30.4%'
+textPayload: '  A: 24.7%'
+textPayload: 'Bases preceding removed adapters:'
+textPayload: '1-9 bp: 0; 10-13 bp: 1'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 1'
+textPayload: "Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 160389\
+textPayload: === Adapter 1 ===
+textPayload: 'Total written (filtered):      8,685,648 bp (44.4%)'
+textPayload: 'Quality-trimmed:                   3,211 bp (0.0%)'
+textPayload: 'Total basepairs processed:    19,570,715 bp'
+textPayload: 'Reads written (passing filters):       174,241 (100.0%)'
+textPayload: 'Reads with adapters:                   160,389 (92.1%)'
+textPayload: 'Total reads processed:                 174,241'
+textPayload: === Summary ===
+textPayload: Processing single-end reads on 8 cores ...
+textPayload: 'Command line parameters: -j 8 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R1.fastq.gz'
+textPayload: This is cutadapt 5.0 with Python 3.12.8
+textPayload: "  >>> Now performing quality (cutoff '-q 20') and adapter trimming in\
+textPayload: Writing final adapter and quality trimmed output to primer_trimmed_R1_trimmed.fq.gz
+textPayload: Cutadapt seems to be fairly up-to-date (version 5.0). Setting -j 8
+textPayload: Output file(s) will be GZIP compressed
+textPayload: "Running FastQC with the following extra arguments: '--outdir tmp/fastqc'"
+textPayload: Running FastQC on the data once trimming has completed
+textPayload: 'Minimum required sequence length for both reads before a sequence pair
+textPayload: 'Minimum required adapter overlap (stringency): 1 bp'
+textPayload: 'Maximum trimming error rate: 0.1 (default)'
+textPayload: "Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; user\
+textPayload: 'Quality encoding type selected: ASCII+33'
+textPayload: 'Quality Phred score cutoff: 20'
+textPayload: 'Number of cores used for trimming: 8'
+textPayload: 'Python version: 3.12.8'
+textPayload: 'Cutadapt version: 5.0'
+textPayload: 'Trim Galore version: 0.6.10'
+textPayload: 'Trimming mode: paired-end'
+textPayload: 'Input filename: RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R1.fastq.gz'
+textPayload: ==========================
+textPayload: SUMMARISING RUN PARAMETERS
+textPayload: Writing report to '/app/RNA-CLH74_S12_L001-preprocess/trimmed_fq/primer_trimmed_R1.fastq.gz_trimming_report.txt'
+textPayload: 'gzip: stdout: Broken pipe'
+textPayload: 'Output will be written into the directory: /app/RNA-CLH74_S12_L001-preprocess/trimmed_fq/'
+textPayload: No quality encoding type selected. Assuming that the data provided uses
+textPayload: To decrease CPU usage of decompression, please install 'igzip' and run
+textPayload: Proceeding with 'gzip' for decompression
+textPayload: To increase performance, please install 'pigz' and run again
+textPayload: "Proceeding with 'gzip' for compression. PLEASE NOTE: Using multi-cores\
+textPayload: Cutadapt seems to be using Python 3! Proceeding with multi-core enabled
+textPayload: 'Cutadapt version: 5.0'
+textPayload: Cutadapt seems to be working fine (tested command 'cutadapt --version')
+textPayload: "Path to Cutadapt set as: 'cutadapt' (default)"
+textPayload: "21\t1"
+textPayload: Overview of removed sequences
+textPayload: 'No. of allowed errors:'
+textPayload: "27\t1\t0.0\t0\t1"
+textPayload: "18\t263\t0.0\t0\t263"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: "Sequence: TCCTCCTGTGTCGCCTTTAC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "19\t47\t0.0\t0\t47"
+textPayload: "19\t2\t0.0\t0\t2"
+textPayload: "18\t4\t0.0\t0\t4"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t2\t0.0\t0\t2"
+textPayload: Overview of removed sequences
+textPayload: '=== Second read: Adapter ROS1_9R|REVERSE|ROS1 ==='
+textPayload: "20\t6\t0.0\t0\t6"
+textPayload: '1-20 bp: 0'
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: Overview of removed sequences
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: 'Minimum overlap: 12'
+textPayload: "72\t1\t0.0\t0\t1"
+textPayload: "16\t5\t0.0\t0\t5"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: "18\t4\t0.0\t0\t4"
+textPayload: '1-21 bp: 0'
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t5\t0.0\t0\t5"
+textPayload: "24\t9\t0.0\t0\t9"
+textPayload: "19\t12\t0.0\t0\t12"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: '=== Second read: Adapter RET_9R|REVERSE|RET ==='
+textPayload: "Sequence: GGGCAAACTTGTGGTAGCAG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "18\t3\t0.0\t0\t3"
+textPayload: "16\t7\t0.0\t0\t7"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: '=== Second read: Adapter RET_14R|REVERSE|RET ==='
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: "12\t6\t0.0\t0\t6"
+textPayload: "15\t7\t0.0\t0\t7"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: 'No. of allowed errors:'
+textPayload: "16\t5\t0.0\t0\t5"
+textPayload: Overview of removed sequences
+textPayload: "Sequence: GACCGTCACAGAATGAAGCA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: 'Minimum overlap: 12'
+textPayload: '=== Second read: Adapter NTRK3_5R|REVERSE|NTRK3 ==='
+textPayload: '=== Second read: Adapter NTRK3_4R|REVERSE|NTRK3 ==='
+textPayload: '=== Second read: Adapter NTRK3_2R|REVERSE|NTRK3 ==='
+textPayload: "15\t12\t0.0\t0\t12"
+textPayload: "Sequence: AAAGGCTCTGGGCTGAATG; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: "20\t96\t0.0\t0\t96"
+textPayload: 'No. of allowed errors:'
+textPayload: "18\t11\t0.0\t0\t11"
+textPayload: "14\t1\t0.0\t0\t1"
+textPayload: "19\t5\t0.0\t0\t5"
+textPayload: "17\t2\t0.0\t0\t2"
+textPayload: "Sequence: AACAGGACACAGGCAAAAGC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "20\t1720\t0.0\t0\t1720"
+textPayload: "19\t2\t0.0\t0\t2"
+textPayload: Overview of removed sequences
+textPayload: "Sequence: CTGGACCTCAGGTTCCTCAT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "24\t2\t0.0\t0\t2"
+textPayload: "20\t24\t0.0\t0\t24"
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: "Sequence: CACCTTCCGAAGAAGATGGA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TCTTGCTGCTTTCATTCAGG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "Sequence: TCCTGCTCAGGACAGAGGTT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== Second read: Adapter NTRK2_11R|REVERSE|NTRK2 ==='
+textPayload: "20\t21\t0.0\t0\t21"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: "17\t7\t0.0\t0\t7"
+textPayload: "19\t148\t0.0\t0\t148"
+textPayload: "29\t5\t0.0\t0\t5"
+textPayload: "Sequence: CAAGGAGCAGCGTAGAAAGG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "Sequence: ATCGTTCTCTGCCCAGCA; Type: regular 5'; Length: 18; Trimmed:\
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: 'No. of allowed errors:'
+textPayload: 'No. of allowed errors:'
+textPayload: '1-20 bp: 0'
+textPayload: "12\t2\t0.0\t0\t2"
+textPayload: 'No. of allowed errors:'
+textPayload: '=== Second read: Adapter NTRK1_19R|REVERSE|NTRK1 ==='
+textPayload: '=== Second read: Adapter NTRK1_18R|REVERSE|NTRK1 ==='
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: 'Minimum overlap: 12'
+textPayload: '=== Second read: Adapter NTRK1_14R|REVERSE|NTRK1 ==='
+textPayload: "Sequence: CCAAAAGGTGTTTCGTCCTT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "15\t10\t0.0\t0\t10"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: "116\t11\t0.0\t0\t11"
+textPayload: "80\t1\t0.0\t0\t1"
+textPayload: "22\t1\t0.0\t0\t1"
+textPayload: "Sequence: CCATTCTCGGGACACTAACTG; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: 'Minimum overlap: 12'
+textPayload: '=== Second read: Adapter MET_3R|REVERSE|MET ==='
+textPayload: "18\t4\t0.0\t0\t4"
+textPayload: "23\t1\t0.0\t0\t1"
+textPayload: "19\t26\t0.0\t0\t26"
+textPayload: "13\t5\t0.0\t0\t5"
+textPayload: "27\t88\t0.0\t0\t88"
+textPayload: '1-22 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "13\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: '=== Second read: Adapter FGFR3_2R|REVERSE|FGFR3 ==='
+textPayload: "20\t197\t0.0\t0\t197"
+textPayload: "13\t4\t0.0\t0\t4"
+textPayload: '1-20 bp: 0'
+textPayload: "19\t57\t0.0\t0\t57"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: '=== Second read: Adapter FGFR2_4R|REVERSE|FGFR2 ==='
+textPayload: "20\t1678\t0.0\t0\t1678"
+textPayload: "14\t6\t0.0\t0\t6"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "17\t6\t0.0\t0\t6"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: "Sequence: TCCAAAGTCTGCTATTTTCATCA; Type: regular 5'; Length: 23; Trimmed:\
+textPayload: "21\t2\t0.0\t0\t2"
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: 'Minimum overlap: 12'
+textPayload: '=== Second read: Adapter FGFR1_13R|REVERSE|FGFR1 ==='
+textPayload: Overview of removed sequences
+textPayload: "Sequence: GCCCCTGTGCAATAGATGAT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "Sequence: ACCATGCAGGAGATGAGGAA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: 'Minimum overlap: 12'
+textPayload: '=== Second read: Adapter CCDC6_1R|REVERSE|CCDC6 ==='
+textPayload: '=== Second read: Adapter ALK_9R|REVERSE|ALK ==='
+textPayload: "53\t4\t0.0\t0\t4"
+textPayload: Overview of removed sequences
+textPayload: '=== Second read: Adapter ALK_3R|REVERSE|ALK ==='
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: 'No. of allowed errors:'
+textPayload: '=== Second read: Adapter ALK_23R|REVERSE|ALK ==='
+textPayload: "18\t3\t0.0\t0\t3"
+textPayload: Overview of removed sequences
+textPayload: "Sequence: TGAGACAGGAAAGGGAAGGA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: 'Minimum overlap: 12'
+textPayload: Overview of removed sequences
+textPayload: "Sequence: TCCGCTAATGGTGAGGTAGC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "58\t3\t0.0\t0\t3"
+textPayload: "20\t439\t0.0\t0\t439"
+textPayload: 'Minimum overlap: 12'
+textPayload: '=== Second read: Adapter ALK_14R|REVERSE|ALK ==='
+textPayload: "Sequence: AAGCTGGGGTGTACAGGATG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "49\t9\t0.0\t0\t9"
+textPayload: "17\t12\t0.0\t0\t12"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: 'No. of allowed errors:'
+textPayload: "Sequence: AGGGTCCATGTGACATTCGT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "26\t4"
+textPayload: "3\t2793"
+textPayload: "Sequence: TTGGAAAGCCAGAAGTTGAA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "15\t3\t0.0\t0\t3"
+textPayload: '=== First read: Adapter TRIM33_4F|FORWARD|TRIM33 ==='
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: 'Minimum overlap: 12'
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t3\t0.0\t0\t3"
+textPayload: "22\t2\t0.0\t0\t2"
+textPayload: 'Minimum overlap: 12'
+textPayload: "13\t4\t0.0\t0\t4"
+textPayload: '=== First read: Adapter TRIM24_5F|FORWARD|TRIM24 ==='
+textPayload: Overview of removed sequences
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: 'No. of allowed errors:'
+textPayload: "Sequence: AACTGGTAAAGGTCAGCCTAGC; Type: regular 5'; Length: 22; Trimmed:\
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: 'No. of allowed errors:'
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TTGCTGAGAGATCGGTAGCC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "15\t4\t0.0\t0\t4"
+textPayload: "17\t3\t0.0\t0\t3"
+textPayload: 'No. of allowed errors:'
+textPayload: "31\t1\t0.0\t0\t1"
+textPayload: '1-20 bp: 0'
+textPayload: '=== First read: Adapter SLC34A2_6F|FORWARD|SLC34A2 ==='
+textPayload: Overview of removed sequences
+textPayload: '=== First read: Adapter SLC34A2_2F|FORWARD|SLC34A2 ==='
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: '1-21 bp: 0'
+textPayload: "20\t299\t0.0\t0\t299"
+textPayload: "22\t303\t0.0\t0\t303"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: "17\t7\t0.0\t0\t7"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "13\t2\t0.0\t0\t2"
+textPayload: "31\t1\t0.0\t0\t1"
+textPayload: '=== First read: Adapter ROS1_5F|FORWARD|ROS1 ==='
+textPayload: "17\t3\t0.0\t0\t3"
+textPayload: Overview of removed sequences
+textPayload: 'Minimum overlap: 12'
+textPayload: "15\t2\t0.0\t0\t2"
+textPayload: Overview of removed sequences
+textPayload: "73\t1\t0.0\t0\t1"
+textPayload: "Sequence: CACTGCGATGTTGTGGAGAC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "17\t3\t0.0\t0\t3"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: '1-20 bp: 0'
+textPayload: '1-20 bp: 0'
+textPayload: "Sequence: GGGATTAAAGCTGGCTATGG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: '1-20 bp: 0'
+textPayload: '=== First read: Adapter QKI_2F|FORWARD|QKI ==='
+textPayload: "19\t3\t0.0\t0\t3"
+textPayload: "17\t9\t0.0\t0\t9"
+textPayload: '=== First read: Adapter NTRK3_7F|FORWARD|NTRK3 ==='
+textPayload: 'Minimum overlap: 12'
+textPayload: "18\t12\t0.0\t0\t12"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: "18\t13\t0.0\t0\t13"
+textPayload: "71\t4\t0.0\t0\t4"
+textPayload: 'Minimum overlap: 12'
+textPayload: "19\t1938\t0.0\t0\t1938"
+textPayload: "20\t10\t0.0\t0\t10"
+textPayload: '1-20 bp: 0'
+textPayload: "Sequence: GCACGGATTATTACAGGCTCTT; Type: regular 5'; Length: 22; Trimmed:\
+textPayload: 'No. of allowed errors:'
+textPayload: "Sequence: CCCGACACTGTGGTCATTG; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: 'No. of allowed errors:'
+textPayload: "21\t7\t0.0\t0\t7"
+textPayload: 'Minimum overlap: 12'
+textPayload: '=== First read: Adapter NTRK1_8F|FORWARD|NTRK1 ==='
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: "57\t1\t0.0\t0\t1"
+textPayload: "12\t3\t0.0\t0\t3"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: 'No. of allowed errors:'
+textPayload: "Sequence: CATGGACAACCCTTTCGAGT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "72\t2\t0.0\t0\t2"
+textPayload: "Sequence: TCAACAACGGCAACTACACG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "Sequence: ATGAAATCTGGGGGTCTGC; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '1-18 bp: 0'
+textPayload: 'Minimum overlap: 12'
+textPayload: "18\t22\t0.0\t0\t22"
+textPayload: "14\t3\t0.0\t0\t3"
+textPayload: 'No. of allowed errors:'
+textPayload: '=== First read: Adapter NCOA4_3F|FORWARD|NCOA4 ==='
+textPayload: "21\t1\t0.0\t0\t1"
+textPayload: '=== First read: Adapter NCOA4_2F|FORWARD|NCOA4 ==='
+textPayload: "73\t1\t0.0\t0\t1"
+textPayload: '=== First read: Adapter MET_9F|FORWARD|MET ==='
+textPayload: "46\t6\t0.0\t0\t6"
+textPayload: "37\t1\t0.0\t0\t1"
+textPayload: 'No. of allowed errors:'
+textPayload: "Sequence: CAGCCCAAACCATTTCAACT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: 'Minimum overlap: 12'
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: 'No. of allowed errors:'
+textPayload: "Sequence: TGATTGCTGGTGTTGTCTCA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter MET_1F|FORWARD|MET ==='
+textPayload: "19\t2\t0.0\t0\t2"
+textPayload: "25\t29\t0.0\t0\t29"
+textPayload: "20\t9616\t0.0\t0\t9616"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: 'Minimum overlap: 12'
+textPayload: "24\t1\t0.0\t0\t1"
+textPayload: "Sequence: AGGCTCTGCTGAACTCCAAG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "72\t1\t0.0\t0\t1"
+textPayload: "19\t3\t0.0\t0\t3"
+textPayload: "Sequence: GCGTACGGCTCTCATCAACT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "Sequence: GAGGAACAGCAACCTGGTG; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: 'No. of allowed errors:'
+textPayload: "20\t46\t0.0\t0\t46"
+textPayload: Overview of removed sequences
+textPayload: 'Minimum overlap: 12'
+textPayload: '=== First read: Adapter KIF5B_16F|FORWARD|KIF5B ==='
+textPayload: '=== First read: Adapter KIF5B_15F|FORWARD|KIF5B ==='
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: Overview of removed sequences
+textPayload: 'Minimum overlap: 12'
+textPayload: '=== First read: Adapter KCNQ5_2F|FORWARD|KCNQ5 ==='
+textPayload: 'No. of allowed errors:'
+textPayload: "Sequence: ACCTGTACAACGTGCTGGAG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "19\t189\t0.0\t0\t189"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "17\t2\t0.0\t0\t2"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AGCAGGACTGGGTCAACAG; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter IRF2BP2_1F|FORWARD|IRF2BP2 ==='
+textPayload: "20\t8\t0.0\t0\t8"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GTGGACATCGTTACCGTTTG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter GOPC_6F|FORWARD|GOPC ==='
+textPayload: "20\t15\t0.0\t0\t15"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GGCTCCTGAAGTGGATTCTG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter GOPC_5F|FORWARD|GOPC ==='
+textPayload: "Sequence: CACGTTGGGGATGCTATTTT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter GOPC_4F|FORWARD|GOPC ==='
+textPayload: "27\t2\t0.0\t0\t2"
+textPayload: "20\t45\t0.0\t0\t45"
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GGGATGCTATTTTGGCAGTC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter GOPC_3F|FORWARD|GOPC ==='
+textPayload: "73\t1\t0.0\t0\t1"
+textPayload: "72\t2\t0.0\t0\t2"
+textPayload: "71\t2\t0.0\t0\t2"
+textPayload: "20\t1601\t0.0\t0\t1601"
+textPayload: "19\t41\t0.0\t0\t41"
+textPayload: "18\t10\t0.0\t0\t10"
+textPayload: "17\t3\t0.0\t0\t3"
+textPayload: "16\t2\t0.0\t0\t2"
+textPayload: "15\t7\t0.0\t0\t7"
+textPayload: "14\t3\t0.0\t0\t3"
+textPayload: "13\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: ATAGCTGTTCTCCAGGCTGA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter GOPC_2F|FORWARD|GOPC ==='
+textPayload: "21\t3\t0.0\t0\t3"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GAATGAAGCCCTTCGTAGACA; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter GOPC_1F|FORWARD|GOPC ==='
+textPayload: "70\t1\t0.0\t0\t1"
+textPayload: "66\t1\t0.0\t0\t1"
+textPayload: "65\t1\t0.0\t0\t1"
+textPayload: "20\t1\t0.0\t0\t1"
+textPayload: "19\t2355\t0.0\t0\t2355"
+textPayload: "18\t47\t0.0\t0\t47"
+textPayload: "17\t12\t0.0\t0\t12"
+textPayload: "16\t2\t0.0\t0\t2"
+textPayload: "14\t9\t0.0\t0\t9"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: ATGATCATGCGGGAGTGCT; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter FGFR3_9F|FORWARD|FGFR3 ==='
+textPayload: "19\t2723\t0.0\t0\t2723"
+textPayload: "18\t90\t0.0\t0\t90"
+textPayload: "17\t21\t0.0\t0\t21"
+textPayload: "16\t5\t0.0\t0\t5"
+textPayload: "15\t5\t0.0\t0\t5"
+textPayload: "14\t9\t0.0\t0\t9"
+textPayload: "13\t3\t0.0\t0\t3"
+textPayload: "12\t6\t0.0\t0\t6"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CAACTGCACACACGACCTG; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter FGFR3_8F|FORWARD|FGFR3 ==='
+textPayload: "18\t52\t0.0\t0\t52"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-18 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AGAGGCCCACCTTCAAGC; Type: regular 5'; Length: 18; Trimmed:\
+textPayload: '=== First read: Adapter FGFR3_7F|FORWARD|FGFR3 ==='
+textPayload: "31\t1\t0.0\t0\t1"
+textPayload: "19\t594\t0.0\t0\t594"
+textPayload: "18\t18\t0.0\t0\t18"
+textPayload: "17\t4\t0.0\t0\t4"
+textPayload: "16\t2\t0.0\t0\t2"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CAAGCAGCTGGTGGAGGAC; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter FGFR3_6F|FORWARD|FGFR3 ==='
+textPayload: "69\t1\t0.0\t0\t1"
+textPayload: "25\t1\t0.0\t0\t1"
+textPayload: "23\t1\t0.0\t0\t1"
+textPayload: "22\t1\t0.0\t0\t1"
+textPayload: "20\t1\t0.0\t0\t1"
+textPayload: "19\t1068\t0.0\t0\t1068"
+textPayload: "18\t46\t0.0\t0\t46"
+textPayload: "17\t9\t0.0\t0\t9"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "14\t1\t0.0\t0\t1"
+textPayload: "13\t5\t0.0\t0\t5"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GACGTGAGTGCTGGCTCTG; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter FGFR3_5F|FORWARD|FGFR3 ==='
+textPayload: "71\t2\t0.0\t0\t2"
+textPayload: "70\t1\t0.0\t0\t1"
+textPayload: "19\t1818\t0.0\t0\t1818"
+textPayload: "18\t62\t0.0\t0\t62"
+textPayload: "17\t59\t0.0\t0\t59"
+textPayload: "16\t15\t0.0\t0\t15"
+textPayload: "15\t10\t0.0\t0\t10"
+textPayload: "14\t4\t0.0\t0\t4"
+textPayload: "13\t2\t0.0\t0\t2"
+textPayload: "12\t344\t0.0\t0\t344"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GTCCACCGACGTGAGTGCT; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter FGFR3_4F|FORWARD|FGFR3 ==='
+textPayload: "20\t12\t0.0\t0\t12"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GACCGTGTCCTTACCGTGAC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR3_3F|FORWARD|FGFR3 ==='
+textPayload: "70\t1\t0.0\t0\t1"
+textPayload: "48\t6\t0.0\t0\t6"
+textPayload: "20\t22\t0.0\t0\t22"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: ACGAGTACCTGGACCTGTCG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR3_2F|FORWARD|FGFR3 ==='
+textPayload: "18\t56\t0.0\t0\t56"
+textPayload: "17\t2\t0.0\t0\t2"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-18 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GGGACGACTCCGTGTTTG; Type: regular 5'; Length: 18; Trimmed:\
+textPayload: '=== First read: Adapter FGFR3_1F|FORWARD|FGFR3 ==='
+textPayload: "20\t193\t0.0\t0\t193"
+textPayload: "19\t11\t0.0\t0\t11"
+textPayload: "18\t2\t0.0\t0\t2"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GCACTGGAGCCTCATTATGG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR2_9F|FORWARD|FGFR2 ==='
+textPayload: "20\t243\t0.0\t0\t243"
+textPayload: "19\t5\t0.0\t0\t5"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGGAAAGTGTGGTCCCATCT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR2_8F|FORWARD|FGFR2 ==='
+textPayload: "20\t291\t0.0\t0\t291"
+textPayload: "19\t10\t0.0\t0\t10"
+textPayload: "18\t6\t0.0\t0\t6"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "16\t3\t0.0\t0\t3"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "14\t1\t0.0\t0\t1"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CAACTGCACCAACGAACTGT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR2_7F|FORWARD|FGFR2 ==='
+textPayload: "20\t38\t0.0\t0\t38"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CAGAGACCAACGTTCAAGCA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR2_6F|FORWARD|FGFR2 ==='
+textPayload: "20\t852\t0.0\t0\t852"
+textPayload: "19\t12\t0.0\t0\t12"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "16\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGATGATGAGGGACTGTTGG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR2_5F|FORWARD|FGFR2 ==='
+textPayload: "21\t56\t0.0\t0\t56"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGACATTAACCGTGTTCCTGA; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter FGFR2_4F|FORWARD|FGFR2 ==='
+textPayload: "20\t16\t0.0\t0\t16"
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TCCTGAGGAGCAGATGACCT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR2_3F|FORWARD|FGFR2 ==='
+textPayload: "72\t1\t0.0\t0\t1"
+textPayload: "70\t1\t0.0\t0\t1"
+textPayload: "20\t1474\t0.0\t0\t1474"
+textPayload: "19\t43\t0.0\t0\t43"
+textPayload: "18\t21\t0.0\t0\t21"
+textPayload: "17\t7\t0.0\t0\t7"
+textPayload: "16\t2\t0.0\t0\t2"
+textPayload: "15\t5\t0.0\t0\t5"
+textPayload: "14\t4\t0.0\t0\t4"
+textPayload: "13\t6\t0.0\t0\t6"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CCGCTGGTGAGGATAACAAC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR2_1F|FORWARD|FGFR2 ==='
+textPayload: "20\t14\t0.0\t0\t14"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GCACAAGCTGACCAAACGTA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR2_15F|FORWARD|FGFR2 ==='
+textPayload: "72\t1\t0.0\t0\t1"
+textPayload: "21\t1837\t0.0\t0\t1837"
+textPayload: "20\t38\t0.0\t0\t38"
+textPayload: "19\t7\t0.0\t0\t7"
+textPayload: "18\t4\t0.0\t0\t4"
+textPayload: "17\t2\t0.0\t0\t2"
+textPayload: "16\t4\t0.0\t0\t4"
+textPayload: "15\t2\t0.0\t0\t2"
+textPayload: "14\t4\t0.0\t0\t4"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "12\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CATGGTGAATGTCACAGATGC; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter FGFR2_14F|FORWARD|FGFR2 ==='
+textPayload: "20\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GATGGTGCGGAAGATTTTGT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR2_13F|FORWARD|FGFR2 ==='
+textPayload: "73\t1\t0.0\t0\t1"
+textPayload: "72\t2\t0.0\t0\t2"
+textPayload: "71\t4\t0.0\t0\t4"
+textPayload: "70\t2\t0.0\t0\t2"
+textPayload: "20\t1677\t0.0\t0\t1677"
+textPayload: "19\t17\t0.0\t0\t17"
+textPayload: "18\t8\t0.0\t0\t8"
+textPayload: "17\t5\t0.0\t0\t5"
+textPayload: "16\t9\t0.0\t0\t9"
+textPayload: "15\t3\t0.0\t0\t3"
+textPayload: "13\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TCTCTTCAACGGCAGACACC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR2_12F|FORWARD|FGFR2 ==='
+textPayload: "20\t36\t0.0\t0\t36"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: ACAGTCATCCTGTGCCGAAT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR2_11F|FORWARD|FGFR2 ==='
+textPayload: "74\t1\t0.0\t0\t1"
+textPayload: "72\t1\t0.0\t0\t1"
+textPayload: "21\t727\t0.0\t0\t727"
+textPayload: "20\t19\t0.0\t0\t19"
+textPayload: "19\t5\t0.0\t0\t5"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "16\t3\t0.0\t0\t3"
+textPayload: "15\t3\t0.0\t0\t3"
+textPayload: "14\t1\t0.0\t0\t1"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AGAGTGACTTCCACAGCCAGA; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_9F|FORWARD|FGFR1 ==='
+textPayload: "72\t1\t0.0\t0\t1"
+textPayload: "71\t2\t0.0\t0\t2"
+textPayload: "20\t670\t0.0\t0\t670"
+textPayload: "19\t21\t0.0\t0\t21"
+textPayload: "18\t4\t0.0\t0\t4"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "14\t131\t0.0\t0\t131"
+textPayload: "13\t7\t0.0\t0\t7"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AACTGCAGAACTGGGATGTG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_8F|FORWARD|FGFR1 ==='
+textPayload: "72\t1\t0.0\t0\t1"
+textPayload: "71\t1\t0.0\t0\t1"
+textPayload: "70\t1\t0.0\t0\t1"
+textPayload: "69\t1\t0.0\t0\t1"
+textPayload: "45\t1\t0.0\t0\t1"
+textPayload: "38\t1\t0.0\t0\t1"
+textPayload: "31\t1\t0.0\t0\t1"
+textPayload: "21\t2\t0.0\t0\t2"
+textPayload: "20\t2668\t0.0\t0\t2668"
+textPayload: "19\t58\t0.0\t0\t58"
+textPayload: "18\t14\t0.0\t0\t14"
+textPayload: "17\t14\t0.0\t0\t14"
+textPayload: "16\t13\t0.0\t0\t13"
+textPayload: "15\t9\t0.0\t0\t9"
+textPayload: "14\t4\t0.0\t0\t4"
+textPayload: "12\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GAGCCTTGTCACCAACCTCT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_7F|FORWARD|FGFR1 ==='
+textPayload: "20\t64\t0.0\t0\t64"
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGGAAGTGCCTCCTCTTCTG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_6F|FORWARD|FGFR1 ==='
+textPayload: "78\t4\t0.0\t0\t4"
+textPayload: "77\t3\t0.0\t0\t3"
+textPayload: "76\t2\t0.0\t0\t2"
+textPayload: "75\t4\t0.0\t0\t4"
+textPayload: "73\t1\t0.0\t0\t1"
+textPayload: "72\t4\t0.0\t0\t4"
+textPayload: "71\t8\t0.0\t0\t8"
+textPayload: "70\t1\t0.0\t0\t1"
+textPayload: "69\t3\t0.0\t0\t3"
+textPayload: "68\t3\t0.0\t0\t3"
+textPayload: "65\t1\t0.0\t0\t1"
+textPayload: "62\t1\t0.0\t0\t1"
+textPayload: "57\t1\t0.0\t0\t1"
+textPayload: "42\t2\t0.0\t0\t2"
+textPayload: "35\t65\t0.0\t0\t65"
+textPayload: "34\t1\t0.0\t0\t1"
+textPayload: "32\t1\t0.0\t0\t1"
+textPayload: "31\t1\t0.0\t0\t1"
+textPayload: "30\t16\t0.0\t0\t16"
+textPayload: "29\t2\t0.0\t0\t2"
+textPayload: "28\t1\t0.0\t0\t1"
+textPayload: "27\t3\t0.0\t0\t3"
+textPayload: "26\t3964\t0.0\t0\t3964"
+textPayload: "25\t198\t0.0\t0\t198"
+textPayload: "24\t24\t0.0\t0\t24"
+textPayload: "23\t8\t0.0\t0\t8"
+textPayload: "22\t3\t0.0\t0\t3"
+textPayload: "21\t5\t0.0\t0\t5"
+textPayload: "20\t3620\t0.0\t0\t3620"
+textPayload: "19\t178\t0.0\t0\t178"
+textPayload: "18\t29\t0.0\t0\t29"
+textPayload: "17\t22\t0.0\t0\t22"
+textPayload: "16\t2\t0.0\t0\t2"
+textPayload: "15\t19\t0.0\t0\t19"
+textPayload: "14\t2\t0.0\t0\t2"
+textPayload: "13\t4\t0.0\t0\t4"
+textPayload: "12\t3\t0.0\t0\t3"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AGAACTGGGATGTGGAGCTG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_5F|FORWARD|FGFR1 ==='
+textPayload: "20\t1\t0.0\t0\t1"
+textPayload: "18\t1141\t0.0\t0\t1141"
+textPayload: "17\t29\t0.0\t0\t29"
+textPayload: "16\t13\t0.0\t0\t13"
+textPayload: "15\t4\t0.0\t0\t4"
+textPayload: "14\t4\t0.0\t0\t4"
+textPayload: "13\t3\t0.0\t0\t3"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-18 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CCAGGACCCGAACAGAGC; Type: regular 5'; Length: 18; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_3F|FORWARD|FGFR1 ==='
+textPayload: "20\t91\t0.0\t0\t91"
+textPayload: "19\t2\t0.0\t0\t2"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AACTGCACCAACGAGCTGTA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_2F|FORWARD|FGFR1 ==='
+textPayload: "20\t73\t0.0\t0\t73"
+textPayload: "19\t2\t0.0\t0\t2"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CCTCACAGAGACCCACCTTC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_1F|FORWARD|FGFR1 ==='
+textPayload: "21\t165\t0.0\t0\t165"
+textPayload: "20\t3\t0.0\t0\t3"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CAAAGAGATGGAGGTGCTTCA; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_16F|FORWARD|FGFR1 ==='
+textPayload: "61\t1\t0.0\t0\t1"
+textPayload: "20\t24\t0.0\t0\t24"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GACGCAGGGGAGTATACGTG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_15F|FORWARD|FGFR1 ==='
+textPayload: "20\t130\t0.0\t0\t130"
+textPayload: "16\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GGCTGCCAAGACAGTGAAGT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_14F|FORWARD|FGFR1 ==='
+textPayload: "20\t17\t0.0\t0\t17"
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GCTGGTTGAAAAATGGCAAA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_13F|FORWARD|FGFR1 ==='
+textPayload: "72\t1\t0.0\t0\t1"
+textPayload: "70\t1\t0.0\t0\t1"
+textPayload: "35\t2\t0.0\t0\t2"
+textPayload: "21\t1\t0.0\t0\t1"
+textPayload: "20\t300\t0.0\t0\t300"
+textPayload: "19\t4\t0.0\t0\t4"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TATGCTTGCGTAACCAGCAG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_12F|FORWARD|FGFR1 ==='
+textPayload: "19\t100\t0.0\t0\t100"
+textPayload: "18\t3\t0.0\t0\t3"
+textPayload: "14\t1\t0.0\t0\t1"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GCAGACTCCGGCCTCTATG; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_11F|FORWARD|FGFR1 ==='
+textPayload: "20\t167\t0.0\t0\t167"
+textPayload: "19\t4\t0.0\t0\t4"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GGGTCGGTCATCGTCTACAA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter FGFR1_10F|FORWARD|FGFR1 ==='
+textPayload: "20\t13\t0.0\t0\t13"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CGAGAAGGAGGAGTTGATGC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EZR_4F|FORWARD|EZR ==='
+textPayload: "21\t296\t0.0\t0\t296"
+textPayload: "20\t6\t0.0\t0\t6"
+textPayload: "19\t3\t0.0\t0\t3"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AAAGGAGAGAAACCGTGGAGA; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter EZR_3F|FORWARD|EZR ==='
+textPayload: "20\t6\t0.0\t0\t6"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CGCCTAGAGGCTGACCGTAT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EZR_2F|FORWARD|EZR ==='
+textPayload: "20\t97\t0.0\t0\t97"
+textPayload: "19\t2\t0.0\t0\t2"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "14\t2\t0.0\t0\t2"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AAGGAGGAGCTGGAGAGACA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EZR_1F|FORWARD|EZR ==='
+textPayload: "19\t15\t0.0\t0\t15"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TTTCTGACAGCCGGTACGA; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter ETV6_9F|FORWARD|ETV6 ==='
+textPayload: "63\t1\t0.0\t0\t1"
+textPayload: "19\t1094\t0.0\t0\t1094"
+textPayload: "18\t32\t0.0\t0\t32"
+textPayload: "17\t9\t0.0\t0\t9"
+textPayload: "16\t4\t0.0\t0\t4"
+textPayload: "15\t4\t0.0\t0\t4"
+textPayload: "14\t1\t0.0\t0\t1"
+textPayload: "13\t4\t0.0\t0\t4"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: ATCCGATGGGAGGACAAAG; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter ETV6_8F|FORWARD|ETV6 ==='
+textPayload: "20\t1004\t0.0\t0\t1004"
+textPayload: "19\t14\t0.0\t0\t14"
+textPayload: "18\t4\t0.0\t0\t4"
+textPayload: "17\t5\t0.0\t0\t5"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t3\t0.0\t0\t3"
+textPayload: "14\t1\t0.0\t0\t1"
+textPayload: "12\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TCTCTCATCGGGAAGACCTG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter ETV6_7F|FORWARD|ETV6 ==='
+textPayload: "76\t1\t0.0\t0\t1"
+textPayload: "74\t1\t0.0\t0\t1"
+textPayload: "73\t3\t0.0\t0\t3"
+textPayload: "72\t1\t0.0\t0\t1"
+textPayload: "71\t1\t0.0\t0\t1"
+textPayload: "21\t1011\t0.0\t0\t1011"
+textPayload: "20\t13\t0.0\t0\t13"
+textPayload: "19\t3\t0.0\t0\t3"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "16\t2\t0.0\t0\t2"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGAACCACATCATGGTCTCTG; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter ETV6_6F|FORWARD|ETV6 ==='
+textPayload: "79\t1\t0.0\t0\t1"
+textPayload: "72\t1\t0.0\t0\t1"
+textPayload: "71\t2\t0.0\t0\t2"
+textPayload: "62\t1\t0.0\t0\t1"
+textPayload: "20\t2404\t0.0\t0\t2404"
+textPayload: "19\t53\t0.0\t0\t53"
+textPayload: "18\t14\t0.0\t0\t14"
+textPayload: "17\t9\t0.0\t0\t9"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t13\t0.0\t0\t13"
+textPayload: "14\t5\t0.0\t0\t5"
+textPayload: "13\t4\t0.0\t0\t4"
+textPayload: "12\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GGAAGCCCATCAACCTCTCT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter ETV6_5F|FORWARD|ETV6 ==='
+textPayload: "28\t6\t0.0\t0\t6"
+textPayload: "20\t38\t0.0\t0\t38"
+textPayload: "19\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CGGGAAGACCTGGCTTACAT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter ETV6_4F|FORWARD|ETV6 ==='
+textPayload: "Sequence: GAGGAAACCTCGGATTCTTTTT; Type: regular 5'; Length: 22; Trimmed:\
+textPayload: '=== First read: Adapter ETV6_3F|FORWARD|ETV6 ==='
+textPayload: "22\t180\t0.0\t0\t180"
+textPayload: "21\t5\t0.0\t0\t5"
+textPayload: "20\t3\t0.0\t0\t3"
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-22 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CAGCATATTCTGAAGCAGAGGA; Type: regular 5'; Length: 22; Trimmed:\
+textPayload: '=== First read: Adapter ETV6_2F|FORWARD|ETV6 ==='
+textPayload: "20\t132\t0.0\t0\t132"
+textPayload: "19\t4\t0.0\t0\t4"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CATTCTTCCACCCTGGAAAC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter ETV6_1F|FORWARD|ETV6 ==='
+textPayload: "19\t597\t0.0\t0\t597"
+textPayload: "18\t10\t0.0\t0\t10"
+textPayload: "17\t4\t0.0\t0\t4"
+textPayload: "16\t2\t0.0\t0\t2"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "14\t3\t0.0\t0\t3"
+textPayload: "12\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CCGGATAGTGGATCCCAAC; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter ETV6_10F|FORWARD|ETV6 ==='
+textPayload: "21\t466\t0.0\t0\t466"
+textPayload: "20\t8\t0.0\t0\t8"
+textPayload: "19\t3\t0.0\t0\t3"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GCTGGTAGATGAACCAGGACA; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter EML4_9F|FORWARD|EML4 ==='
+textPayload: "20\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGTGCCTGTGGAACTCAATG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_8F|FORWARD|EML4 ==='
+textPayload: "Sequence: GGCACATCACGAAACTTTATTT; Type: regular 5'; Length: 22; Trimmed:\
+textPayload: '=== First read: Adapter EML4_7F|FORWARD|EML4 ==='
+textPayload: "20\t9\t0.0\t0\t9"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GCAGAAGGAAAGGCAGATCA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_6F|FORWARD|EML4 ==='
+textPayload: "24\t5\t0.0\t0\t5"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-24 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CAGAAAAATAATTCTGTGGGATCA; Type: regular 5'; Length: 24; Trimmed:\
+textPayload: '=== First read: Adapter EML4_5F|FORWARD|EML4 ==='
+textPayload: "24\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-24 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TCATGATCTGAATCCTGAAAGAGA; Type: regular 5'; Length: 24; Trimmed:\
+textPayload: '=== First read: Adapter EML4_4F|FORWARD|EML4 ==='
+textPayload: "74\t2\t0.0\t0\t2"
+textPayload: "72\t2\t0.0\t0\t2"
+textPayload: "71\t3\t0.0\t0\t3"
+textPayload: "70\t1\t0.0\t0\t1"
+textPayload: "20\t3895\t0.0\t0\t3895"
+textPayload: "19\t81\t0.0\t0\t81"
+textPayload: "18\t18\t0.0\t0\t18"
+textPayload: "17\t17\t0.0\t0\t17"
+textPayload: "16\t4\t0.0\t0\t4"
+textPayload: "15\t11\t0.0\t0\t11"
+textPayload: "14\t5\t0.0\t0\t5"
+textPayload: "13\t3\t0.0\t0\t3"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AAGCTCATGATGGCAGTGTG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_3F|FORWARD|EML4 ==='
+textPayload: "75\t1\t0.0\t0\t1"
+textPayload: "73\t1\t0.0\t0\t1"
+textPayload: "68\t1\t0.0\t0\t1"
+textPayload: "47\t1\t0.0\t0\t1"
+textPayload: "23\t1\t0.0\t0\t1"
+textPayload: "22\t4260\t0.0\t0\t4260"
+textPayload: "21\t110\t0.0\t0\t110"
+textPayload: "20\t17\t0.0\t0\t17"
+textPayload: "19\t7\t0.0\t0\t7"
+textPayload: "18\t7\t0.0\t0\t7"
+textPayload: "17\t13\t0.0\t0\t13"
+textPayload: "16\t2\t0.0\t0\t2"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "14\t6\t0.0\t0\t6"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "12\t6\t0.0\t0\t6"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-22 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TTGTCAGATGAGAAATGGGATG; Type: regular 5'; Length: 22; Trimmed:\
+textPayload: '=== First read: Adapter EML4_31F|FORWARD|EML4 ==='
+textPayload: "Sequence: CTGGATGCAGAAACCAGAGA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_30F|FORWARD|EML4 ==='
+textPayload: "20\t119\t0.0\t0\t119"
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGGAGGAGGGAAAGACAGAA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_2F|FORWARD|EML4 ==='
+textPayload: "69\t1\t0.0\t0\t1"
+textPayload: "20\t69\t0.0\t0\t69"
+textPayload: "19\t23\t0.0\t0\t23"
+textPayload: "18\t2\t0.0\t0\t2"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AGGTGGTTTGTTCTGGATGC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_29F|FORWARD|EML4 ==='
+textPayload: "20\t31\t0.0\t0\t31"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TTAGCATTCTTGGGGAATGG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_28F|FORWARD|EML4 ==='
+textPayload: "55\t1\t0.0\t0\t1"
+textPayload: "21\t105\t0.0\t0\t105"
+textPayload: "20\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GAGACTCAGGTGGAGTCATGC; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter EML4_27F|FORWARD|EML4 ==='
+textPayload: "24\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-24 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGATAGCCGTAATAAATTGTCGAA; Type: regular 5'; Length: 24; Trimmed:\
+textPayload: '=== First read: Adapter EML4_26F|FORWARD|EML4 ==='
+textPayload: "21\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TCACGAGTTCAGCAACAAGAA; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter EML4_25F|FORWARD|EML4 ==='
+textPayload: "22\t20\t0.0\t0\t20"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-22 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGGGAAAATTCAGATGATAGCC; Type: regular 5'; Length: 22; Trimmed:\
+textPayload: '=== First read: Adapter EML4_24F|FORWARD|EML4 ==='
+textPayload: "22\t189\t0.0\t0\t189"
+textPayload: "21\t2\t0.0\t0\t2"
+textPayload: "20\t1\t0.0\t0\t1"
+textPayload: "16\t3\t0.0\t0\t3"
+textPayload: "15\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-22 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGTCGAAAATACCTTCAACACC; Type: regular 5'; Length: 22; Trimmed:\
+textPayload: '=== First read: Adapter EML4_23F|FORWARD|EML4 ==='
+textPayload: "20\t42\t0.0\t0\t42"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: ACCAAAACTGCAGACAAGCA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_22F|FORWARD|EML4 ==='
+textPayload: "21\t409\t0.0\t0\t409"
+textPayload: "20\t5\t0.0\t0\t5"
+textPayload: "19\t3\t0.0\t0\t3"
+textPayload: "18\t2\t0.0\t0\t2"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GCTGTCTCAATTGCAGGAAAA; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter EML4_21F|FORWARD|EML4 ==='
+textPayload: "20\t8\t0.0\t0\t8"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGGTGCAAACAGAAAACCAA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_20F|FORWARD|EML4 ==='
+textPayload: "23\t1\t0.0\t0\t1"
+textPayload: "22\t1089\t0.0\t0\t1089"
+textPayload: "21\t25\t0.0\t0\t25"
+textPayload: "20\t6\t0.0\t0\t6"
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "17\t3\t0.0\t0\t3"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "14\t1\t0.0\t0\t1"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-22 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGGGATGTTATTAACTGGAGGA; Type: regular 5'; Length: 22; Trimmed:\
+textPayload: '=== First read: Adapter EML4_1F|FORWARD|EML4 ==='
+textPayload: "20\t11\t0.0\t0\t11"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GGCTTTGGCTGATGTTTTGA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_19F|FORWARD|EML4 ==='
+textPayload: "29\t1\t0.0\t0\t1"
+textPayload: "20\t4\t0.0\t0\t4"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGATGTTTTGAGGCGTCTTG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_18F|FORWARD|EML4 ==='
+textPayload: "21\t505\t0.0\t0\t505"
+textPayload: "20\t13\t0.0\t0\t13"
+textPayload: "14\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CAGGAATCGATCGGATTGTAA; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter EML4_17F|FORWARD|EML4 ==='
+textPayload: "20\t226\t0.0\t0\t226"
+textPayload: "19\t12\t0.0\t0\t12"
+textPayload: "18\t4\t0.0\t0\t4"
+textPayload: "17\t3\t0.0\t0\t3"
+textPayload: "14\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AGGACATTGATTGGACGACA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_16F|FORWARD|EML4 ==='
+textPayload: "20\t10\t0.0\t0\t10"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CTGGTCCCCAGACAACAAGT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_15F|FORWARD|EML4 ==='
+textPayload: "73\t1\t0.0\t0\t1"
+textPayload: "20\t463\t0.0\t0\t463"
+textPayload: "19\t5\t0.0\t0\t5"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TATGGAAGGTGCACTGGACA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_14F|FORWARD|EML4 ==='
+textPayload: "20\t150\t0.0\t0\t150"
+textPayload: "19\t5\t0.0\t0\t5"
+textPayload: "18\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TCCTGGCTGTAGGATCTCAT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_13F|FORWARD|EML4 ==='
+textPayload: "72\t4\t0.0\t0\t4"
+textPayload: "71\t2\t0.0\t0\t2"
+textPayload: "70\t1\t0.0\t0\t1"
+textPayload: "65\t1\t0.0\t0\t1"
+textPayload: "20\t2043\t0.0\t0\t2043"
+textPayload: "19\t43\t0.0\t0\t43"
+textPayload: "18\t12\t0.0\t0\t12"
+textPayload: "17\t4\t0.0\t0\t4"
+textPayload: "16\t6\t0.0\t0\t6"
+textPayload: "15\t10\t0.0\t0\t10"
+textPayload: "14\t3\t0.0\t0\t3"
+textPayload: "13\t2\t0.0\t0\t2"
+textPayload: "12\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GATGGTACCTTCCTGGCTGT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_12F|FORWARD|EML4 ==='
+textPayload: "20\t101\t0.0\t0\t101"
+textPayload: "19\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TTTTCATCCAAGTGGCACAG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_11F|FORWARD|EML4 ==='
+textPayload: "71\t1\t0.0\t0\t1"
+textPayload: "20\t1907\t0.0\t0\t1907"
+textPayload: "19\t61\t0.0\t0\t61"
+textPayload: "18\t19\t0.0\t0\t19"
+textPayload: "17\t3\t0.0\t0\t3"
+textPayload: "16\t5\t0.0\t0\t5"
+textPayload: "15\t3\t0.0\t0\t3"
+textPayload: "14\t4\t0.0\t0\t4"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "12\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GAACACAGGCTGGAATGGAC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter EML4_10F|FORWARD|EML4 ==='
+textPayload: "28\t32\t0.0\t0\t32"
+textPayload: "21\t731\t0.0\t0\t731"
+textPayload: "20\t17\t0.0\t0\t17"
+textPayload: "19\t3\t0.0\t0\t3"
+textPayload: "18\t2\t0.0\t0\t2"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TTCATCCAGGTCATGAAGGAG; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter CLTC_4F|FORWARD|CLTC ==='
+textPayload: "73\t1\t0.0\t0\t1"
+textPayload: "20\t365\t0.0\t0\t365"
+textPayload: "19\t6\t0.0\t0\t6"
+textPayload: "18\t5\t0.0\t0\t5"
+textPayload: "17\t3\t0.0\t0\t3"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "14\t1\t0.0\t0\t1"
+textPayload: "13\t7\t0.0\t0\t7"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GCCCTATTTCATCCAGGTCA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter CLTC_3F|FORWARD|CLTC ==='
+textPayload: "Sequence: TAGATGCTTCAGAATCACTGAGAA; Type: regular 5'; Length: 24; Trimmed:\
+textPayload: '=== First read: Adapter CLTC_2F|FORWARD|CLTC ==='
+textPayload: "68\t1\t0.0\t0\t1"
+textPayload: "22\t734\t0.0\t0\t734"
+textPayload: "21\t24\t0.0\t0\t24"
+textPayload: "20\t5\t0.0\t0\t5"
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: "18\t3\t0.0\t0\t3"
+textPayload: "17\t2\t0.0\t0\t2"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-22 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AGGAGTACTTGACAAAGGTGGA; Type: regular 5'; Length: 22; Trimmed:\
+textPayload: '=== First read: Adapter CLTC_1F|FORWARD|CLTC ==='
+textPayload: "20\t186\t0.0\t0\t186"
+textPayload: "19\t2\t0.0\t0\t2"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: ATCGGCTACTGCTGGTGTGT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter CD74_9F|FORWARD|CD74 ==='
+textPayload: "20\t2\t0.0\t0\t2"
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: ACCATTGGCTCCTGTTTGAA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter CD74_8F|FORWARD|CD74 ==='
+textPayload: "21\t21\t0.0\t0\t21"
+textPayload: "20\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CCATGGAGACCATAGACTGGA; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter CD74_7F|FORWARD|CD74 ==='
+textPayload: "20\t60\t0.0\t0\t60"
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GGTCTTTGAGAGCTGGATGC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter CD74_6F|FORWARD|CD74 ==='
+textPayload: "31\t2\t0.0\t0\t2"
+textPayload: "20\t67\t0.0\t0\t67"
+textPayload: "19\t6\t0.0\t0\t6"
+textPayload: "18\t4\t0.0\t0\t4"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GCCACCAAGTATGGCAACAT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter CD74_5F|FORWARD|CD74 ==='
+textPayload: "67\t1\t0.0\t0\t1"
+textPayload: "19\t1090\t0.0\t0\t1090"
+textPayload: "18\t18\t0.0\t0\t18"
+textPayload: "17\t7\t0.0\t0\t7"
+textPayload: "16\t3\t0.0\t0\t3"
+textPayload: "15\t3\t0.0\t0\t3"
+textPayload: "14\t8\t0.0\t0\t8"
+textPayload: "12\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AAGCCTGTGAGCAAGATGC; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter CD74_4F|FORWARD|CD74 ==='
+textPayload: "20\t3\t0.0\t0\t3"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGCAGAATGCCACCAAGTAT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter CD74_3F|FORWARD|CD74 ==='
+textPayload: "73\t1\t0.0\t0\t1"
+textPayload: "72\t1\t0.0\t0\t1"
+textPayload: "70\t2\t0.0\t0\t2"
+textPayload: "20\t4490\t0.0\t0\t4490"
+textPayload: "19\t56\t0.0\t0\t56"
+textPayload: "18\t19\t0.0\t0\t19"
+textPayload: "17\t5\t0.0\t0\t5"
+textPayload: "16\t7\t0.0\t0\t7"
+textPayload: "15\t12\t0.0\t0\t12"
+textPayload: "14\t8\t0.0\t0\t8"
+textPayload: "13\t3\t0.0\t0\t3"
+textPayload: "12\t6\t0.0\t0\t6"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: ACCGCCTACTTCCTGTACCA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter CD74_2F|FORWARD|CD74 ==='
+textPayload: "72\t1\t0.0\t0\t1"
+textPayload: "20\t415\t0.0\t0\t415"
+textPayload: "19\t12\t0.0\t0\t12"
+textPayload: "18\t7\t0.0\t0\t7"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GACAGTCACCTCCCAGAACC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter CD74_1F|FORWARD|CD74 ==='
+textPayload: "73\t1\t0.0\t0\t1"
+textPayload: "72\t1\t0.0\t0\t1"
+textPayload: "21\t1843\t0.0\t0\t1843"
+textPayload: "20\t30\t0.0\t0\t30"
+textPayload: "19\t8\t0.0\t0\t8"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "17\t4\t0.0\t0\t4"
+textPayload: "16\t5\t0.0\t0\t5"
+textPayload: "15\t4\t0.0\t0\t4"
+textPayload: "14\t3\t0.0\t0\t3"
+textPayload: "13\t2\t0.0\t0\t2"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGAGTCACTGGAACTGGAGGA; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter CD74_11F|FORWARD|CD74 ==='
+textPayload: "71\t1\t0.0\t0\t1"
+textPayload: "20\t449\t0.0\t0\t449"
+textPayload: "19\t10\t0.0\t0\t10"
+textPayload: "18\t3\t0.0\t0\t3"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t2\t0.0\t0\t2"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GAGGTCCCCAACACCAGAAG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter CD74_10F|FORWARD|CD74 ==='
+textPayload: "19\t25\t0.0\t0\t25"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GTTTCACGCCACCAACTTC; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter CCDC6_6F|FORWARD|CCDC6 ==='
+textPayload: "73\t2\t0.0\t0\t2"
+textPayload: "72\t7\t0.0\t0\t7"
+textPayload: "71\t4\t0.0\t0\t4"
+textPayload: "21\t2\t0.0\t0\t2"
+textPayload: "20\t2045\t0.0\t0\t2045"
+textPayload: "19\t58\t0.0\t0\t58"
+textPayload: "18\t14\t0.0\t0\t14"
+textPayload: "17\t2\t0.0\t0\t2"
+textPayload: "16\t3\t0.0\t0\t3"
+textPayload: "15\t4\t0.0\t0\t4"
+textPayload: "14\t4\t0.0\t0\t4"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TTACAATTCCCCGGGTCTTC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter CCDC6_5F|FORWARD|CCDC6 ==='
+textPayload: "70\t1\t0.0\t0\t1"
+textPayload: "31\t8\t0.0\t0\t8"
+textPayload: "29\t1\t0.0\t0\t1"
+textPayload: "20\t353\t0.0\t0\t353"
+textPayload: "19\t15\t0.0\t0\t15"
+textPayload: "18\t17\t0.0\t0\t17"
+textPayload: "17\t2\t0.0\t0\t2"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t2\t0.0\t0\t2"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CTCCAGAGGAAGCTGCAGAG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter CCDC6_4F|FORWARD|CCDC6 ==='
+textPayload: "20\t54\t0.0\t0\t54"
+textPayload: "19\t4\t0.0\t0\t4"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CTGCAGAGGGAGATGGAGAG; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter CCDC6_3F|FORWARD|CCDC6 ==='
+textPayload: "21\t402\t0.0\t0\t402"
+textPayload: "20\t10\t0.0\t0\t10"
+textPayload: "18\t1\t0.0\t0\t1"
+textPayload: "17\t3\t0.0\t0\t3"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GGTGCTGAAGATAGAGCTGGA; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter CCDC6_2F|FORWARD|CCDC6 ==='
+textPayload: "72\t3\t0.0\t0\t3"
+textPayload: "60\t1\t0.0\t0\t1"
+textPayload: "58\t1\t0.0\t0\t1"
+textPayload: "57\t1\t0.0\t0\t1"
+textPayload: "21\t1\t0.0\t0\t1"
+textPayload: "20\t1681\t0.0\t0\t1681"
+textPayload: "19\t54\t0.0\t0\t54"
+textPayload: "18\t13\t0.0\t0\t13"
+textPayload: "17\t4\t0.0\t0\t4"
+textPayload: "16\t7\t0.0\t0\t7"
+textPayload: "15\t4\t0.0\t0\t4"
+textPayload: "14\t3\t0.0\t0\t3"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AGGCACTGCAGGAGGAGAAC; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter CCDC6_1F|FORWARD|CCDC6 ==='
+textPayload: "78\t2\t0.0\t0\t2"
+textPayload: "76\t1\t0.0\t0\t1"
+textPayload: "75\t1\t0.0\t0\t1"
+textPayload: "74\t4\t0.0\t0\t4"
+textPayload: "73\t14\t0.0\t0\t14"
+textPayload: "72\t8\t0.0\t0\t8"
+textPayload: "71\t4\t0.0\t0\t4"
+textPayload: "70\t1\t0.0\t0\t1"
+textPayload: "69\t3\t0.0\t0\t3"
+textPayload: "67\t2\t0.0\t0\t2"
+textPayload: "63\t1\t0.0\t0\t1"
+textPayload: "47\t4\t0.0\t0\t4"
+textPayload: "45\t1\t0.0\t0\t1"
+textPayload: "43\t5\t0.0\t0\t5"
+textPayload: "38\t24\t0.0\t0\t24"
+textPayload: "21\t2643\t0.0\t0\t2643"
+textPayload: "20\t44\t0.0\t0\t44"
+textPayload: "19\t8\t0.0\t0\t8"
+textPayload: "18\t2\t0.0\t0\t2"
+textPayload: "17\t2\t0.0\t0\t2"
+textPayload: "16\t8\t0.0\t0\t8"
+textPayload: "15\t2\t0.0\t0\t2"
+textPayload: "13\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-21 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: TGATCCTCTCTGTGGTGACCT; Type: regular 5'; Length: 21; Trimmed:\
+textPayload: '=== First read: Adapter ALK_9F|FORWARD|ALK ==='
+textPayload: "22\t375\t0.0\t0\t375"
+textPayload: "21\t9\t0.0\t0\t9"
+textPayload: "20\t4\t0.0\t0\t4"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-22 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GCAGTCACTGTGAGGTAGACGA; Type: regular 5'; Length: 22; Trimmed:\
+textPayload: '=== First read: Adapter ALK_8F|FORWARD|ALK ==='
+textPayload: "73\t1\t0.0\t0\t1"
+textPayload: "20\t12\t0.0\t0\t12"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AGCCACAAGGTCATCTGCTT; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter ALK_7F|FORWARD|ALK ==='
+textPayload: "42\t2\t0.0\t0\t2"
+textPayload: "41\t5\t0.0\t0\t5"
+textPayload: "40\t3\t0.0\t0\t3"
+textPayload: "37\t1\t0.0\t0\t1"
+textPayload: "33\t1\t0.0\t0\t1"
+textPayload: "19\t1445\t0.0\t0\t1445"
+textPayload: "18\t78\t0.0\t0\t78"
+textPayload: "17\t11\t0.0\t0\t11"
+textPayload: "16\t6\t0.0\t0\t6"
+textPayload: "15\t3\t0.0\t0\t3"
+textPayload: "14\t3\t0.0\t0\t3"
+textPayload: "13\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CGAAATGGATGGGGAAGAT; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter ALK_6F|FORWARD|ALK ==='
+textPayload: "20\t241\t0.0\t0\t241"
+textPayload: "19\t6\t0.0\t0\t6"
+textPayload: "14\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-20 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: AATGCAGCCTCAAACAATGA; Type: regular 5'; Length: 20; Trimmed:\
+textPayload: '=== First read: Adapter ALK_5F|FORWARD|ALK ==='
+textPayload: "69\t2\t0.0\t0\t2"
+textPayload: "24\t2\t0.0\t0\t2"
+textPayload: "21\t1\t0.0\t0\t1"
+textPayload: "19\t1600\t0.0\t0\t1600"
+textPayload: "18\t58\t0.0\t0\t58"
+textPayload: "17\t16\t0.0\t0\t16"
+textPayload: "16\t5\t0.0\t0\t5"
+textPayload: "15\t4\t0.0\t0\t4"
+textPayload: "14\t7\t0.0\t0\t7"
+textPayload: "13\t2\t0.0\t0\t2"
+textPayload: "12\t3\t0.0\t0\t3"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CCAGGCCATGAAGAAGTGG; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter ALK_4F|FORWARD|ALK ==='
+textPayload: "19\t1\t0.0\t0\t1"
+textPayload: "18\t203\t0.0\t0\t203"
+textPayload: "17\t17\t0.0\t0\t17"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-18 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GGGGTGGGAGACAAGAGG; Type: regular 5'; Length: 18; Trimmed:\
+textPayload: '=== First read: Adapter ALK_3F|FORWARD|ALK ==='
+textPayload: "19\t901\t0.0\t0\t901"
+textPayload: "18\t15\t0.0\t0\t15"
+textPayload: "17\t9\t0.0\t0\t9"
+textPayload: "16\t1\t0.0\t0\t1"
+textPayload: "15\t4\t0.0\t0\t4"
+textPayload: "14\t1\t0.0\t0\t1"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GTCGGAAGTGGGCAGAGAG; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter ALK_2F|FORWARD|ALK ==='
+textPayload: "69\t1\t0.0\t0\t1"
+textPayload: "30\t16\t0.0\t0\t16"
+textPayload: "28\t1\t0.0\t0\t1"
+textPayload: "27\t2\t0.0\t0\t2"
+textPayload: "24\t1\t0.0\t0\t1"
+textPayload: "19\t427\t0.0\t0\t427"
+textPayload: "18\t10\t0.0\t0\t10"
+textPayload: "17\t2\t0.0\t0\t2"
+textPayload: "16\t3\t0.0\t0\t3"
+textPayload: "13\t1\t0.0\t0\t1"
+textPayload: "12\t1\t0.0\t0\t1"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GCAGAGAGGGAAGGCTGTC; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter ALK_1F|FORWARD|ALK ==='
+textPayload: "18\t92\t0.0\t0\t92"
+textPayload: "17\t1\t0.0\t0\t1"
+textPayload: "16\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-18 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: ATGTCGCCGCCTATGAAG; Type: regular 5'; Length: 18; Trimmed:\
+textPayload: '=== First read: Adapter ALK_12F|FORWARD|ALK ==='
+textPayload: "19\t7\t0.0\t0\t7"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: CCGCCTATGAAGGCTTGAG; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter ALK_11F|FORWARD|ALK ==='
+textPayload: "19\t529\t0.0\t0\t529"
+textPayload: "18\t10\t0.0\t0\t10"
+textPayload: "17\t5\t0.0\t0\t5"
+textPayload: "16\t6\t0.0\t0\t6"
+textPayload: "15\t1\t0.0\t0\t1"
+textPayload: "13\t2\t0.0\t0\t2"
+textPayload: "length\tcount\texpect\tmax.err\terror counts"
+textPayload: Overview of removed sequences
+textPayload: '1-19 bp: 0'
+textPayload: 'No. of allowed errors:'
+textPayload: 'Minimum overlap: 12'
+textPayload: "Sequence: GAGCCACACCTGCCACTCT; Type: regular 5'; Length: 19; Trimmed:\
+textPayload: '=== First read: Adapter ALK_10F|FORWARD|ALK ==='
+textPayload: '  Read 2:    19,885,311 bp'
+textPayload: '  Read 1:    19,570,715 bp'
+textPayload: 'Total written (filtered):     39,456,026 bp (56.3%)'
+textPayload: '  Read 2:         2,691 bp'
+textPayload: '  Read 1:     1,648,190 bp'
+textPayload: 'Poly-A-trimmed:                1,650,881 bp (2.4%)'
+textPayload: '  Read 2:    11,586,117 bp'
+textPayload: '  Read 1:     7,458,904 bp'
+textPayload: 'Quality-trimmed:              19,045,021 bp (27.2%)'
+textPayload: '  Read 2:    35,046,194 bp'
+textPayload: '  Read 1:    35,046,194 bp'
+textPayload: 'Total basepairs processed:    70,092,388 bp'
+textPayload: 'Pairs written (passing filters):       174,241 (75.1%)'
+textPayload: 'Pairs discarded as untrimmed:           25,525 (11.0%)'
+textPayload: 'Pairs that were too short:              32,328 (13.9%)'
+textPayload: == Read fate breakdown ==
+textPayload: '  Read 2 with adapter:                 196,745 (84.8%)'
+textPayload: '  Read 1 with adapter:                 214,648 (92.5%)'
+textPayload: 'Total read pairs processed:            232,094'
+textPayload: === Summary ===
+textPayload: Processing paired-end reads on 8 cores ...
+textPayload: 'Command line parameters: -j 8 -g file:primer_sets/RNA-for-primer.fa
+textPayload: This is cutadapt 5.0 with Python 3.12.8
+textPayload: 'Operation completed over 2 objects/51.5 MiB.                                     '
+textPayload: '- [2 files][ 51.5 MiB/ 51.5 MiB]                                                '
+textPayload: '-'
+textPayload: '/ [1 files][ 24.0 MiB/ 51.5 MiB]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/raw_fastq/RNA-CLH74_S12_L001_R2_001.fastq.gz...
+textPayload: '/ [1 files][ 24.0 MiB/ 24.0 MiB]                                                '
+textPayload: '/ [0 files][    0.0 B/ 24.0 MiB]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/raw_fastq/RNA-CLH74_S12_L001_R1_001.fastq.gz...

@@ -1,0 +1,1029 @@
+textPayload: Container called exit(0).
+textPayload: ' --> 分析流程完成！'
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1poolCL_S18_L001-reports/Annotated_featurecount.xlsx '
+textPayload: ' --> 本地檔案：STAR_align_M0253-1poolCL_S18_L001/Annotated_featurecount.xlsx '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1poolCL_S18_L001-reports/STAR_Log.final.out '
+textPayload: ' --> 本地檔案：STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/STAR_align_result/STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> 本地資料夾：STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R*_val_* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 18 objects/1.4 MiB.                                     '
+textPayload: '/ [18/18 files][  1.4 MiB/  1.4 MiB] 100% Done                                  '
+textPayload: '/ [17/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [16/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [15/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [14/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [13/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [12/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [11/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [10/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [9/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                   '
+textPayload: '/ [8/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                   '
+textPayload: '/ [7/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                   '
+textPayload: '/ [6/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                   '
+textPayload: '/ [5/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                   '
+textPayload: '/ [4/18 files][ 89.6 KiB/  1.4 MiB]   6% Done                                   '
+textPayload: '/ [3/18 files][ 87.4 KiB/  1.4 MiB]   6% Done                                   '
+textPayload: '/ [2/18 files][ 85.5 KiB/  1.4 MiB]   5% Done                                   '
+textPayload: '/ [1/18 files][ 85.5 KiB/  1.4 MiB]   5% Done                                   '
+textPayload: '/ [0/18 files][ 35.0 KiB/  1.4 MiB]   2% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Chimeric.out.junction
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.progress.out
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.out [Content-Type=application/octet-stream]...
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Aligned.out.bam
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_SJ.out.tab [Content-Type=application/octet-stream]...
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_ReadsPerGene.out.tab
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out [Content-Type=application/octet-stream]...
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-2.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-TH00-BK000000.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-0.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-1.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-3.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-4.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-LEVELMERGE.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction.bed
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction_ExonSpan.bed
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Annotated_featurecount.xlsx
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/annotated_result.tsv
+textPayload: Exon span distance calculation completed.
+textPayload: ' --> No junction data found in the input file.'
+textPayload: ' --> Read and Parsing Junction BED...'
+textPayload: 'awk: cannot open /app/STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.jcounts
+textPayload: Convert FeatureCount Result .jcounts file to bed
+textPayload: 'ERROR: No paired-end reads were detected in paired-end read library
+textPayload: '|| Process BAM file STAR_Aligned.out.bam...                                   ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Chromosomes/contigs : 25                                                ||'
+textPayload: '||    Meta-features : 195101                                                  ||'
+textPayload: '||    Features : 1185907                                                      ||'
+textPayload: '|| Load annotation file ref_annot.gtf ...                                     ||'
+textPayload: '||                                                                            ||'
+textPayload: //================================= Running ==================================\\
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '||   Min overlapping bases : 1                                                ||'
+textPayload: '|| Multi-overlapping reads : not counted                                      ||'
+textPayload: '||      Multimapping reads : counted                                          ||'
+textPayload: '||                   Level : meta-feature level                               ||'
+textPayload: '||                 Threads : 8                                                ||'
+textPayload: '||                                                                            ||'
+textPayload: '||       Junction Counting : <output_file>.jcounts                            ||'
+textPayload: '||      Dir for temp files : /app/STAR_align_M0253-1poolCL_S18_L001           ||'
+textPayload: '||              Annotation : ref_annot.gtf (GTF)                              ||'
+textPayload: '||        Count read pairs : yes                                              ||'
+textPayload: '||              Paired-end : yes                                              ||'
+textPayload: '||                 Summary : Exon_Quant.summary                               ||'
+textPayload: '||             Output file : Exon_Quant                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: '||                           STAR_Aligned.out.bam                             ||'
+textPayload: '||                                                                            ||'
+textPayload: '||             Input files : 1 BAM file                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: //========================== featureCounts setting ===========================\\
+textPayload: "\t  v2.0.8"
+textPayload: '        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/'
+textPayload: '              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__|
+textPayload: '            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  |
+textPayload: '          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  |
+textPayload: '        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __
+textPayload: '        ==========     _____ _    _ ____  _____  ______          _____  '
+textPayload: Dec 03 04:00:05 ..... finished successfully
+textPayload: Dec 03 04:00:03 ..... finished mapping
+textPayload: Dec 03 04:00:02 ..... started mapping
+textPayload: Dec 03 03:52:43 ..... loading genome
+textPayload: Dec 03 03:52:43 ..... started STAR run
+textPayload: "\tSTAR version: 2.7.11a   compiled: 2023-08-15T11:38:34-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source"
+textPayload: "\t/usr/local/bin/STAR --genomeDir /app/db/ctat_genome_lib_build_dir/ref_genome.fa.star.idx\
+textPayload: File system has been successfully mounted.
+textPayload: |
+textPayload: 'Operation completed over 2 objects/40.0 B.                                       '
+textPayload: '/ [2 files][   40.0 B/   40.0 B]                                                '
+textPayload: '/ [1 files][   20.0 B/   40.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz...
+textPayload: '/ [1 files][   20.0 B/   20.0 B]                                                '
+textPayload: '/ [0 files][    0.0 B/   20.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz...
+textPayload: Container called exit(0).
+textPayload: ' --> 分析流程完成！'
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1poolCL_S18_L001-reports/Annotated_featurecount.xlsx '
+textPayload: ' --> 本地檔案：STAR_align_M0253-1poolCL_S18_L001/Annotated_featurecount.xlsx '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1poolCL_S18_L001-reports/STAR_Log.final.out '
+textPayload: ' --> 本地檔案：STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/STAR_align_result/STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> 本地資料夾：STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R*_val_* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 18 objects/1.4 MiB.                                     '
+textPayload: '/ [18/18 files][  1.4 MiB/  1.4 MiB] 100% Done                                  '
+textPayload: '/ [17/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [16/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [15/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                  '
+textPayload: '/ [14/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                  '
+textPayload: '/ [13/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                  '
+textPayload: '/ [12/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                  '
+textPayload: '/ [11/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                  '
+textPayload: '/ [10/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                  '
+textPayload: '/ [9/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                   '
+textPayload: '/ [8/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                   '
+textPayload: '/ [7/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                   '
+textPayload: '/ [6/18 files][ 89.8 KiB/  1.4 MiB]   6% Done                                   '
+textPayload: '/ [5/18 files][ 75.7 KiB/  1.4 MiB]   5% Done                                   '
+textPayload: '/ [4/18 files][ 75.7 KiB/  1.4 MiB]   5% Done                                   '
+textPayload: '/ [3/18 files][ 75.7 KiB/  1.4 MiB]   5% Done                                   '
+textPayload: '/ [2/18 files][ 37.2 KiB/  1.4 MiB]   2% Done                                   '
+textPayload: '/ [2/18 files][ 37.2 KiB/  1.4 MiB]   2% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Chimeric.out.junction
+textPayload: '/ [1/18 files][ 37.2 KiB/  1.4 MiB]   2% Done                                   '
+textPayload: '/ [0/18 files][ 37.2 KiB/  1.4 MiB]   2% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_SJ.out.tab [Content-Type=application/octet-stream]...
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.progress.out
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.out [Content-Type=application/octet-stream]...
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_ReadsPerGene.out.tab
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-FTEST-0.tmp
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out [Content-Type=application/octet-stream]...
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-FTEST-1.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Aligned.out.bam
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-FTEST-2.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-TH00-BK000000.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-FTEST-3.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-FTEST-4.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-LEVELMERGE.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction.bed
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction_ExonSpan.bed
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Annotated_featurecount.xlsx
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/annotated_result.tsv
+textPayload: Exon span distance calculation completed.
+textPayload: ' --> No junction data found in the input file.'
+textPayload: ' --> Read and Parsing Junction BED...'
+textPayload: 'awk: cannot open /app/STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.jcounts
+textPayload: Convert FeatureCount Result .jcounts file to bed
+textPayload: 'ERROR: No paired-end reads were detected in paired-end read library
+textPayload: '|| Process BAM file STAR_Aligned.out.bam...                                   ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Chromosomes/contigs : 25                                                ||'
+textPayload: '||    Meta-features : 195101                                                  ||'
+textPayload: '||    Features : 1185907                                                      ||'
+textPayload: '|| Load annotation file ref_annot.gtf ...                                     ||'
+textPayload: '||                                                                            ||'
+textPayload: //================================= Running ==================================\\
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '||   Min overlapping bases : 1                                                ||'
+textPayload: '|| Multi-overlapping reads : not counted                                      ||'
+textPayload: '||      Multimapping reads : counted                                          ||'
+textPayload: '||                   Level : meta-feature level                               ||'
+textPayload: '||                 Threads : 8                                                ||'
+textPayload: '||                                                                            ||'
+textPayload: '||       Junction Counting : <output_file>.jcounts                            ||'
+textPayload: '||      Dir for temp files : /app/STAR_align_M0253-1poolCL_S18_L001           ||'
+textPayload: '||              Annotation : ref_annot.gtf (GTF)                              ||'
+textPayload: '||        Count read pairs : yes                                              ||'
+textPayload: '||              Paired-end : yes                                              ||'
+textPayload: '||                 Summary : Exon_Quant.summary                               ||'
+textPayload: '||             Output file : Exon_Quant                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: '||                           STAR_Aligned.out.bam                             ||'
+textPayload: '||                                                                            ||'
+textPayload: '||             Input files : 1 BAM file                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: //========================== featureCounts setting ===========================\\
+textPayload: "\t  v2.0.8"
+textPayload: '        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/'
+textPayload: '              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__|
+textPayload: '            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  |
+textPayload: '          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  |
+textPayload: '        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __
+textPayload: '        ==========     _____ _    _ ____  _____  ______          _____  '
+textPayload: Dec 03 02:55:37 ..... finished successfully
+textPayload: Dec 03 02:55:36 ..... finished mapping
+textPayload: Dec 03 02:55:35 ..... started mapping
+textPayload: Dec 03 02:48:06 ..... loading genome
+textPayload: Dec 03 02:48:06 ..... started STAR run
+textPayload: "\tSTAR version: 2.7.11a   compiled: 2023-08-15T11:38:34-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source"
+textPayload: "\t/usr/local/bin/STAR --genomeDir /app/db/ctat_genome_lib_build_dir/ref_genome.fa.star.idx\
+textPayload: File system has been successfully mounted.
+textPayload: |
+textPayload: 'Operation completed over 2 objects/40.0 B.                                       '
+textPayload: '/ [2 files][   40.0 B/   40.0 B]                                                '
+textPayload: '/ [1 files][   20.0 B/   40.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz...
+textPayload: '/ [1 files][   20.0 B/   20.0 B]                                                '
+textPayload: '/ [0 files][    0.0 B/   20.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz...
+textPayload: Container called exit(0).
+textPayload: ' --> 分析流程完成！'
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1poolCL_S18_L001-reports/Annotated_featurecount.xlsx '
+textPayload: ' --> 本地檔案：STAR_align_M0253-1poolCL_S18_L001/Annotated_featurecount.xlsx '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1poolCL_S18_L001-reports/STAR_Log.final.out '
+textPayload: ' --> 本地檔案：STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/STAR_align_result/STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> 本地資料夾：STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R*_val_* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 18 objects/1.4 MiB.                                     '
+textPayload: '/ [18/18 files][  1.4 MiB/  1.4 MiB] 100% Done                                  '
+textPayload: '/ [17/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [16/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [15/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [14/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [13/18 files][883.1 KiB/  1.4 MiB]  61% Done                                  '
+textPayload: '/ [12/18 files][ 89.2 KiB/  1.4 MiB]   6% Done                                  '
+textPayload: '/ [11/18 files][ 89.2 KiB/  1.4 MiB]   6% Done                                  '
+textPayload: '/ [10/18 files][ 87.9 KiB/  1.4 MiB]   6% Done                                  '
+textPayload: '/ [9/18 files][ 87.9 KiB/  1.4 MiB]   6% Done                                   '
+textPayload: '/ [8/18 files][ 85.8 KiB/  1.4 MiB]   5% Done                                   '
+textPayload: '/ [7/18 files][ 85.8 KiB/  1.4 MiB]   5% Done                                   '
+textPayload: '/ [6/18 files][ 85.8 KiB/  1.4 MiB]   5% Done                                   '
+textPayload: '/ [5/18 files][ 71.6 KiB/  1.4 MiB]   4% Done                                   '
+textPayload: '/ [4/18 files][ 71.6 KiB/  1.4 MiB]   4% Done                                   '
+textPayload: '/ [3/18 files][ 71.6 KiB/  1.4 MiB]   4% Done                                   '
+textPayload: '/ [2/18 files][ 71.6 KiB/  1.4 MiB]   4% Done                                   '
+textPayload: '/ [1/18 files][ 71.6 KiB/  1.4 MiB]   4% Done                                   '
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_SJ.out.tab [Content-Type=application/octet-stream]...
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Chimeric.out.junction
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.progress.out
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.out [Content-Type=application/octet-stream]...
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Aligned.out.bam
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-FTEST-0.tmp
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out [Content-Type=application/octet-stream]...
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_ReadsPerGene.out.tab
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-TH00-BK000000.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-FTEST-1.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-FTEST-3.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-FTEST-2.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-FTEST-4.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction_ExonSpan.bed
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-LEVELMERGE.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction.bed
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Annotated_featurecount.xlsx
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/annotated_result.tsv
+textPayload: Exon span distance calculation completed.
+textPayload: ' --> No junction data found in the input file.'
+textPayload: ' --> Read and Parsing Junction BED...'
+textPayload: 'awk: cannot open /app/STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.jcounts
+textPayload: Convert FeatureCount Result .jcounts file to bed
+textPayload: 'ERROR: No paired-end reads were detected in paired-end read library
+textPayload: '|| Process BAM file STAR_Aligned.out.bam...                                   ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Chromosomes/contigs : 25                                                ||'
+textPayload: '||    Meta-features : 195101                                                  ||'
+textPayload: '||    Features : 1185907                                                      ||'
+textPayload: '|| Load annotation file ref_annot.gtf ...                                     ||'
+textPayload: '||                                                                            ||'
+textPayload: //================================= Running ==================================\\
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '||   Min overlapping bases : 1                                                ||'
+textPayload: '|| Multi-overlapping reads : not counted                                      ||'
+textPayload: '||      Multimapping reads : counted                                          ||'
+textPayload: '||                   Level : meta-feature level                               ||'
+textPayload: '||                 Threads : 8                                                ||'
+textPayload: '||                                                                            ||'
+textPayload: '||       Junction Counting : <output_file>.jcounts                            ||'
+textPayload: '||      Dir for temp files : /app/STAR_align_M0253-1poolCL_S18_L001           ||'
+textPayload: '||              Annotation : ref_annot.gtf (GTF)                              ||'
+textPayload: '||        Count read pairs : yes                                              ||'
+textPayload: '||              Paired-end : yes                                              ||'
+textPayload: '||                 Summary : Exon_Quant.summary                               ||'
+textPayload: '||             Output file : Exon_Quant                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: '||                           STAR_Aligned.out.bam                             ||'
+textPayload: '||                                                                            ||'
+textPayload: '||             Input files : 1 BAM file                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: //========================== featureCounts setting ===========================\\
+textPayload: "\t  v2.0.8"
+textPayload: '        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/'
+textPayload: '              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__|
+textPayload: '            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  |
+textPayload: '          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  |
+textPayload: '        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __
+textPayload: '        ==========     _____ _    _ ____  _____  ______          _____  '
+textPayload: Dec 03 02:05:11 ..... finished successfully
+textPayload: Dec 03 02:05:09 ..... finished mapping
+textPayload: Dec 03 02:05:08 ..... started mapping
+textPayload: Dec 03 01:57:52 ..... loading genome
+textPayload: Dec 03 01:57:52 ..... started STAR run
+textPayload: "\tSTAR version: 2.7.11a   compiled: 2023-08-15T11:38:34-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source"
+textPayload: "\t/usr/local/bin/STAR --genomeDir /app/db/ctat_genome_lib_build_dir/ref_genome.fa.star.idx\
+textPayload: File system has been successfully mounted.
+textPayload: |
+textPayload: 'Operation completed over 2 objects/40.0 B.                                       '
+textPayload: '/ [2 files][   40.0 B/   40.0 B]                                                '
+textPayload: '/ [1 files][   20.0 B/   40.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz...
+textPayload: '/ [1 files][   20.0 B/   20.0 B]                                                '
+textPayload: '/ [0 files][    0.0 B/   20.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz...
+textPayload: Container called exit(0).
+textPayload: ' --> 分析流程完成！'
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1poolCL_S18_L001-reports/Annotated_featurecount.xlsx '
+textPayload: ' --> 本地檔案：STAR_align_M0253-1poolCL_S18_L001/Annotated_featurecount.xlsx '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1poolCL_S18_L001-reports/STAR_Log.final.out '
+textPayload: ' --> 本地檔案：STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/STAR_align_result/STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> 本地資料夾：STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R*_val_* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 18 objects/1.4 MiB.                                     '
+textPayload: '/ [18/18 files][  1.4 MiB/  1.4 MiB] 100% Done                                  '
+textPayload: '/ [17/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [16/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [15/18 files][  1.4 MiB/  1.4 MiB]  99% Done                                  '
+textPayload: '/ [14/18 files][835.1 KiB/  1.4 MiB]  59% Done                                  '
+textPayload: '/ [13/18 files][835.1 KiB/  1.4 MiB]  59% Done                                  '
+textPayload: '/ [12/18 files][571.1 KiB/  1.4 MiB]  40% Done                                  '
+textPayload: '/ [11/18 files][571.1 KiB/  1.4 MiB]  40% Done                                  '
+textPayload: '/ [10/18 files][571.1 KiB/  1.4 MiB]  40% Done                                  '
+textPayload: '/ [9/18 files][571.1 KiB/  1.4 MiB]  40% Done                                   '
+textPayload: '/ [8/18 files][571.1 KiB/  1.4 MiB]  40% Done                                   '
+textPayload: '/ [7/18 files][307.1 KiB/  1.4 MiB]  21% Done                                   '
+textPayload: '/ [6/18 files][ 43.1 KiB/  1.4 MiB]   3% Done                                   '
+textPayload: '/ [5/18 files][ 43.1 KiB/  1.4 MiB]   3% Done                                   '
+textPayload: '/ [4/18 files][ 41.8 KiB/  1.4 MiB]   2% Done                                   '
+textPayload: '/ [3/18 files][ 41.8 KiB/  1.4 MiB]   2% Done                                   '
+textPayload: '/ [2/18 files][ 39.9 KiB/  1.4 MiB]   2% Done                                   '
+textPayload: '/ [1/18 files][ 39.9 KiB/  1.4 MiB]   2% Done                                   '
+textPayload: '/ [0/18 files][ 39.9 KiB/  1.4 MiB]   2% Done                                   '
+textPayload: '/ [0/18 files][ 35.0 KiB/  1.4 MiB]   2% Done                                   '
+textPayload: '/ [0/18 files][ 35.0 KiB/  1.4 MiB]   2% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.out [Content-Type=application/octet-stream]...
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.progress.out
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Aligned.out.bam
+textPayload: '/ [0/18 files][ 35.0 KiB/  1.4 MiB]   2% Done                                   '
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_SJ.out.tab [Content-Type=application/octet-stream]...
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_ReadsPerGene.out.tab
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out [Content-Type=application/octet-stream]...
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-0.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-3.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Chimeric.out.junction
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-1.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-2.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-TH00-BK000000.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-4.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-LEVELMERGE.tmp
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction.bed
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction_ExonSpan.bed
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Annotated_featurecount.xlsx
+textPayload: '/ [0/18 files][    0.0 B/  1.4 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/annotated_result.tsv
+textPayload: Exon span distance calculation completed.
+textPayload: ' --> No junction data found in the input file.'
+textPayload: ' --> Read and Parsing Junction BED...'
+textPayload: 'awk: cannot open /app/STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.jcounts
+textPayload: Convert FeatureCount Result .jcounts file to bed
+textPayload: 'ERROR: No paired-end reads were detected in paired-end read library
+textPayload: '|| Process BAM file STAR_Aligned.out.bam...                                   ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Chromosomes/contigs : 25                                                ||'
+textPayload: '||    Meta-features : 195101                                                  ||'
+textPayload: '||    Features : 1185907                                                      ||'
+textPayload: '|| Load annotation file ref_annot.gtf ...                                     ||'
+textPayload: '||                                                                            ||'
+textPayload: //================================= Running ==================================\\
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '||   Min overlapping bases : 1                                                ||'
+textPayload: '|| Multi-overlapping reads : not counted                                      ||'
+textPayload: '||      Multimapping reads : counted                                          ||'
+textPayload: '||                   Level : meta-feature level                               ||'
+textPayload: '||                 Threads : 8                                                ||'
+textPayload: '||                                                                            ||'
+textPayload: '||       Junction Counting : <output_file>.jcounts                            ||'
+textPayload: '||      Dir for temp files : /app/STAR_align_M0253-1poolCL_S18_L001           ||'
+textPayload: '||              Annotation : ref_annot.gtf (GTF)                              ||'
+textPayload: '||        Count read pairs : yes                                              ||'
+textPayload: '||              Paired-end : yes                                              ||'
+textPayload: '||                 Summary : Exon_Quant.summary                               ||'
+textPayload: '||             Output file : Exon_Quant                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: '||                           STAR_Aligned.out.bam                             ||'
+textPayload: '||                                                                            ||'
+textPayload: '||             Input files : 1 BAM file                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: //========================== featureCounts setting ===========================\\
+textPayload: "\t  v2.0.8"
+textPayload: '        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/'
+textPayload: '              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__|
+textPayload: '            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  |
+textPayload: '          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  |
+textPayload: '        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __
+textPayload: '        ==========     _____ _    _ ____  _____  ______          _____  '
+textPayload: Dec 02 10:16:47 ..... finished successfully
+textPayload: Dec 02 10:16:45 ..... finished mapping
+textPayload: Dec 02 10:16:44 ..... started mapping
+textPayload: Dec 02 10:09:16 ..... loading genome
+textPayload: Dec 02 10:09:16 ..... started STAR run
+textPayload: "\tSTAR version: 2.7.11a   compiled: 2023-08-15T11:38:34-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source"
+textPayload: "\t/usr/local/bin/STAR --genomeDir /app/db/ctat_genome_lib_build_dir/ref_genome.fa.star.idx\
+textPayload: File system has been successfully mounted.
+textPayload: |
+textPayload: 'Operation completed over 2 objects/40.0 B.                                       '
+textPayload: '/ [2 files][   40.0 B/   40.0 B]                                                '
+textPayload: '/ [1 files][   20.0 B/   40.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz...
+textPayload: '/ [1 files][   20.0 B/   20.0 B]                                                '
+textPayload: '/ [0 files][    0.0 B/   20.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz...
+textPayload: Container called exit(0).
+textPayload: ' --> 分析流程完成！'
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1poolCL_S18_L001-reports/Annotated_featurecount.xlsx '
+textPayload: ' --> 本地檔案：STAR_align_M0253-1poolCL_S18_L001/Annotated_featurecount.xlsx '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1poolCL_S18_L001-reports/STAR_Log.final.out '
+textPayload: ' --> 本地檔案：STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/STAR_align_result/STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> 本地資料夾：STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R*_val_* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 17 objects/1.3 MiB.                                     '
+textPayload: '/ [17/17 files][  1.3 MiB/  1.3 MiB] 100% Done                                  '
+textPayload: '/ [16/17 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [15/17 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [14/17 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [13/17 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [12/17 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [11/17 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [10/17 files][  5.2 KiB/  1.3 MiB]   0% Done                                  '
+textPayload: '/ [9/17 files][  4.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [8/17 files][  4.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [7/17 files][  4.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [6/17 files][  4.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [5/17 files][  4.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [4/17 files][  4.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [3/17 files][  4.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [2/17 files][  4.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [1/17 files][  4.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [0/17 files][  4.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.out [Content-Type=application/octet-stream]...
+textPayload: '/ [0/17 files][  4.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.progress.out
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Aligned.out.bam
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Chimeric.out.junction
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_SJ.out.tab [Content-Type=application/octet-stream]...
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out [Content-Type=application/octet-stream]...
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000247-4200A9FE0102.sam-TH00-BK000000.tmp
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_ReadsPerGene.out.tab
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000247-4200A9FE0102.sam-FTEST-0.tmp
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000247-4200A9FE0102.sam-FTEST-1.tmp
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000247-4200A9FE0102.sam-FTEST-2.tmp
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000247-4200A9FE0102.sam-FTEST-3.tmp
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000247-4200A9FE0102.sam-FTEST-4.tmp
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000247-4200A9FE0102.sam-LEVELMERGE.tmp
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction.bed
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction_ExonSpan.bed
+textPayload: '/ [0/17 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Annotated_featurecount.xlsx
+textPayload: Exon span distance calculation completed.
+textPayload: ' --> No junction data found in the input file.'
+textPayload: ' --> Read and Parsing Junction BED...'
+textPayload: 'awk: cannot open /app/STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.jcounts
+textPayload: Convert FeatureCount Result .jcounts file to bed
+textPayload: 'ERROR: No paired-end reads were detected in paired-end read library
+textPayload: '|| Process BAM file STAR_Aligned.out.bam...                                   ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Chromosomes/contigs : 25                                                ||'
+textPayload: '||    Meta-features : 195101                                                  ||'
+textPayload: '||    Features : 1185907                                                      ||'
+textPayload: '|| Load annotation file ref_annot.gtf ...                                     ||'
+textPayload: '||                                                                            ||'
+textPayload: //================================= Running ==================================\\
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '||   Min overlapping bases : 1                                                ||'
+textPayload: '|| Multi-overlapping reads : not counted                                      ||'
+textPayload: '||      Multimapping reads : counted                                          ||'
+textPayload: '||                   Level : meta-feature level                               ||'
+textPayload: '||                 Threads : 8                                                ||'
+textPayload: '||                                                                            ||'
+textPayload: '||       Junction Counting : <output_file>.jcounts                            ||'
+textPayload: '||      Dir for temp files : /app/STAR_align_M0253-1poolCL_S18_L001           ||'
+textPayload: '||              Annotation : ref_annot.gtf (GTF)                              ||'
+textPayload: '||        Count read pairs : yes                                              ||'
+textPayload: '||              Paired-end : yes                                              ||'
+textPayload: '||                 Summary : Exon_Quant.summary                               ||'
+textPayload: '||             Output file : Exon_Quant                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: '||                           STAR_Aligned.out.bam                             ||'
+textPayload: '||                                                                            ||'
+textPayload: '||             Input files : 1 BAM file                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: //========================== featureCounts setting ===========================\\
+textPayload: "\t  v2.0.8"
+textPayload: '        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/'
+textPayload: '              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__|
+textPayload: '            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  |
+textPayload: '          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  |
+textPayload: '        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __
+textPayload: '        ==========     _____ _    _ ____  _____  ______          _____  '
+textPayload: Dec 02 09:25:43 ..... finished successfully
+textPayload: Dec 02 09:25:42 ..... finished mapping
+textPayload: Dec 02 09:25:41 ..... started mapping
+textPayload: Dec 02 09:18:09 ..... loading genome
+textPayload: Dec 02 09:18:09 ..... started STAR run
+textPayload: "\tSTAR version: 2.7.11a   compiled: 2023-08-15T11:38:34-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source"
+textPayload: "\t/usr/local/bin/STAR --genomeDir /app/db/ctat_genome_lib_build_dir/ref_genome.fa.star.idx\
+textPayload: File system has been successfully mounted.
+textPayload: |
+textPayload: 'Operation completed over 2 objects/40.0 B.                                       '
+textPayload: '/ [2 files][   40.0 B/   40.0 B]                                                '
+textPayload: '/ [1 files][   20.0 B/   40.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz...
+textPayload: '/ [1 files][   20.0 B/   20.0 B]                                                '
+textPayload: '/ [0 files][    0.0 B/   20.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz...
+textPayload: Container called exit(0).
+textPayload: 上傳結果失敗, 分析流程結束
+textPayload: "上傳結果失敗: [Errno 2] No such file or directory: 'STAR_align_M0253-1poolCL_S18_L001/Annotated_featurecount.xlsx'"
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1poolCL_S18_L001-reports/STAR_Log.final.out '
+textPayload: ' --> 本地檔案：STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/STAR_align_result/STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> 本地資料夾：STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R*_val_* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 16 objects/1.3 MiB.                                     '
+textPayload: '/ [16/16 files][  1.3 MiB/  1.3 MiB] 100% Done                                  '
+textPayload: '/ [15/16 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [14/16 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [13/16 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [12/16 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [11/16 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [10/16 files][811.5 KiB/  1.3 MiB]  59% Done                                  '
+textPayload: '/ [9/16 files][811.5 KiB/  1.3 MiB]  59% Done                                   '
+textPayload: '/ [8/16 files][ 19.2 KiB/  1.3 MiB]   1% Done                                   '
+textPayload: '/ [7/16 files][ 19.2 KiB/  1.3 MiB]   1% Done                                   '
+textPayload: '/ [6/16 files][ 19.2 KiB/  1.3 MiB]   1% Done                                   '
+textPayload: '/ [5/16 files][ 19.2 KiB/  1.3 MiB]   1% Done                                   '
+textPayload: '/ [4/16 files][ 13.9 KiB/  1.3 MiB]   1% Done                                   '
+textPayload: '/ [3/16 files][ 13.9 KiB/  1.3 MiB]   1% Done                                   '
+textPayload: '/ [2/16 files][ 13.9 KiB/  1.3 MiB]   1% Done                                   '
+textPayload: '/ [1/16 files][ 13.9 KiB/  1.3 MiB]   1% Done                                   '
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.progress.out
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_ReadsPerGene.out.tab
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Chimeric.out.junction
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Aligned.out.bam
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out [Content-Type=application/octet-stream]...
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_SJ.out.tab [Content-Type=application/octet-stream]...
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.out [Content-Type=application/octet-stream]...
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-FTEST-0.tmp
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-TH00-BK000000.tmp
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-FTEST-1.tmp
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-FTEST-2.tmp
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-FTEST-3.tmp
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-FTEST-4.tmp
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000251-4200A9FE0102.sam-LEVELMERGE.tmp
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [0/16 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction_ExonSpan.bed
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction.bed
+textPayload: 'AnnotateResult.py: error: unrecognized arguments: --keep'
+textPayload: 'usage: AnnotateResult.py [-h] -b BED -a ANNOTATION -o OUTPUT'
+textPayload: Exon span distance calculation completed.
+textPayload: ' --> No junction data found in the input file.'
+textPayload: ' --> Read and Parsing Junction BED...'
+textPayload: 'awk: cannot open /app/STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.jcounts
+textPayload: Convert FeatureCount Result .jcounts file to bed
+textPayload: 'ERROR: No paired-end reads were detected in paired-end read library
+textPayload: '|| Process BAM file STAR_Aligned.out.bam...                                   ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Chromosomes/contigs : 25                                                ||'
+textPayload: '||    Meta-features : 195101                                                  ||'
+textPayload: '||    Features : 1185907                                                      ||'
+textPayload: '|| Load annotation file ref_annot.gtf ...                                     ||'
+textPayload: '||                                                                            ||'
+textPayload: //================================= Running ==================================\\
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '||   Min overlapping bases : 1                                                ||'
+textPayload: '|| Multi-overlapping reads : not counted                                      ||'
+textPayload: '||      Multimapping reads : counted                                          ||'
+textPayload: '||                   Level : meta-feature level                               ||'
+textPayload: '||                 Threads : 8                                                ||'
+textPayload: '||                                                                            ||'
+textPayload: '||       Junction Counting : <output_file>.jcounts                            ||'
+textPayload: '||      Dir for temp files : /app/STAR_align_M0253-1poolCL_S18_L001           ||'
+textPayload: '||              Annotation : ref_annot.gtf (GTF)                              ||'
+textPayload: '||        Count read pairs : yes                                              ||'
+textPayload: '||              Paired-end : yes                                              ||'
+textPayload: '||                 Summary : Exon_Quant.summary                               ||'
+textPayload: '||             Output file : Exon_Quant                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: '||                           STAR_Aligned.out.bam                             ||'
+textPayload: '||                                                                            ||'
+textPayload: '||             Input files : 1 BAM file                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: //========================== featureCounts setting ===========================\\
+textPayload: "\t  v2.0.8"
+textPayload: '        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/'
+textPayload: '              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__|
+textPayload: '            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  |
+textPayload: '          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  |
+textPayload: '        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __
+textPayload: '        ==========     _____ _    _ ____  _____  ______          _____  '
+textPayload: Dec 02 09:02:55 ..... finished successfully
+textPayload: Dec 02 09:02:54 ..... finished mapping
+textPayload: Dec 02 09:02:53 ..... started mapping
+textPayload: Dec 02 08:55:19 ..... loading genome
+textPayload: Dec 02 08:55:19 ..... started STAR run
+textPayload: "\tSTAR version: 2.7.11a   compiled: 2023-08-15T11:38:34-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source"
+textPayload: "\t/usr/local/bin/STAR --genomeDir /app/db/ctat_genome_lib_build_dir/ref_genome.fa.star.idx\
+textPayload: File system has been successfully mounted.
+textPayload: |
+textPayload: 'Operation completed over 2 objects/40.0 B.                                       '
+textPayload: '/ [2 files][   40.0 B/   40.0 B]                                                '
+textPayload: '/ [1 files][   20.0 B/   40.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz...
+textPayload: '/ [1 files][   20.0 B/   20.0 B]                                                '
+textPayload: '/ [0 files][    0.0 B/   20.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz...
+textPayload: Container called exit(0).
+textPayload: 上傳結果失敗, 分析流程結束
+textPayload: "上傳結果失敗: [Errno 2] No such file or directory: 'STAR_align_M0253-1poolCL_S18_L001/Annotated_featurecount.xlsx'"
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1poolCL_S18_L001-reports/STAR_Log.final.out '
+textPayload: ' --> 本地檔案：STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/STAR_align_result/STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> 本地資料夾：STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R*_val_* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 15 objects/1.3 MiB.                                     '
+textPayload: '/ [15/15 files][  1.3 MiB/  1.3 MiB] 100% Done                                  '
+textPayload: '/ [14/15 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [13/15 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [12/15 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [11/15 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [10/15 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [9/15 files][  1.3 MiB/  1.3 MiB]  99% Done                                   '
+textPayload: '/ [8/15 files][  1.3 MiB/  1.3 MiB]  99% Done                                   '
+textPayload: '/ [7/15 files][283.4 KiB/  1.3 MiB]  20% Done                                   '
+textPayload: '/ [6/15 files][ 17.3 KiB/  1.3 MiB]   1% Done                                   '
+textPayload: '/ [5/15 files][  1.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [4/15 files][  1.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [3/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [2/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [1/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Aligned.out.bam
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.progress.out
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_ReadsPerGene.out.tab
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out [Content-Type=application/octet-stream]...
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Chimeric.out.junction
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-TH00-BK000000.tmp
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_SJ.out.tab [Content-Type=application/octet-stream]...
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.out [Content-Type=application/octet-stream]...
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-FTEST-1.tmp
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-FTEST-0.tmp
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-FTEST-2.tmp
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-FTEST-3.tmp
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-LEVELMERGE.tmp
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction.bed
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000249-4200A9FE0102.sam-FTEST-4.tmp
+textPayload: 'File: annotated_result.tsv'
+textPayload: "Error reading file: [Errno 2] No such file or directory: 'annotated_result.tsv'"
+textPayload: "sed: can't read /app/STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction_ExonSpan.bed:\
+textPayload: |-
+textPayload: ' --> Read and Parsing Junction BED...'
+textPayload: 'awk: cannot open /app/STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.jcounts
+textPayload: Convert FeatureCount Result .jcounts file to bed
+textPayload: 'ERROR: No paired-end reads were detected in paired-end read library
+textPayload: '|| Process BAM file STAR_Aligned.out.bam...                                   ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Chromosomes/contigs : 25                                                ||'
+textPayload: '||    Meta-features : 195101                                                  ||'
+textPayload: '||    Features : 1185907                                                      ||'
+textPayload: '|| Load annotation file ref_annot.gtf ...                                     ||'
+textPayload: '||                                                                            ||'
+textPayload: //================================= Running ==================================\\
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '||   Min overlapping bases : 1                                                ||'
+textPayload: '|| Multi-overlapping reads : not counted                                      ||'
+textPayload: '||      Multimapping reads : counted                                          ||'
+textPayload: '||                   Level : meta-feature level                               ||'
+textPayload: '||                 Threads : 8                                                ||'
+textPayload: '||                                                                            ||'
+textPayload: '||       Junction Counting : <output_file>.jcounts                            ||'
+textPayload: '||      Dir for temp files : /app/STAR_align_M0253-1poolCL_S18_L001           ||'
+textPayload: '||              Annotation : ref_annot.gtf (GTF)                              ||'
+textPayload: '||        Count read pairs : yes                                              ||'
+textPayload: '||              Paired-end : yes                                              ||'
+textPayload: '||                 Summary : Exon_Quant.summary                               ||'
+textPayload: '||             Output file : Exon_Quant                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: '||                           STAR_Aligned.out.bam                             ||'
+textPayload: '||                                                                            ||'
+textPayload: '||             Input files : 1 BAM file                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: //========================== featureCounts setting ===========================\\
+textPayload: "\t  v2.0.8"
+textPayload: '        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/'
+textPayload: '              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__|
+textPayload: '            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  |
+textPayload: '          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  |
+textPayload: '        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __
+textPayload: '        ==========     _____ _    _ ____  _____  ______          _____  '
+textPayload: Dec 02 07:39:24 ..... finished successfully
+textPayload: Dec 02 07:39:22 ..... finished mapping
+textPayload: Dec 02 07:39:21 ..... started mapping
+textPayload: Dec 02 07:31:53 ..... loading genome
+textPayload: Dec 02 07:31:52 ..... started STAR run
+textPayload: "\tSTAR version: 2.7.11a   compiled: 2023-08-15T11:38:34-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source"
+textPayload: "\t/usr/local/bin/STAR --genomeDir /app/db/ctat_genome_lib_build_dir/ref_genome.fa.star.idx\
+textPayload: File system has been successfully mounted.
+textPayload: |
+textPayload: 'Operation completed over 2 objects/40.0 B.                                       '
+textPayload: '/ [2 files][   40.0 B/   40.0 B]                                                '
+textPayload: '/ [1 files][   20.0 B/   40.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz...
+textPayload: '/ [1 files][   20.0 B/   20.0 B]                                                '
+textPayload: '/ [0 files][    0.0 B/   20.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz...
+textPayload: Container called exit(0).
+textPayload: 上傳結果失敗, 分析流程結束
+textPayload: "上傳結果失敗: [Errno 2] No such file or directory: 'STAR_align_M0253-1poolCL_S18_L001/Annotated_featurecount.xlsx'"
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1poolCL_S18_L001-reports/STAR_Log.final.out '
+textPayload: ' --> 本地檔案：STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/STAR_align_result/STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> 本地資料夾：STAR_align_M0253-1poolCL_S18_L001 '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R*_val_* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 15 objects/1.3 MiB.                                     '
+textPayload: '/ [15/15 files][  1.3 MiB/  1.3 MiB] 100% Done                                  '
+textPayload: '/ [14/15 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [13/15 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [12/15 files][  1.3 MiB/  1.3 MiB]  99% Done                                  '
+textPayload: '/ [11/15 files][  1.0 MiB/  1.3 MiB]  78% Done                                  '
+textPayload: '/ [10/15 files][811.4 KiB/  1.3 MiB]  59% Done                                  '
+textPayload: '/ [9/15 files][547.4 KiB/  1.3 MiB]  40% Done                                   '
+textPayload: '/ [8/15 files][283.4 KiB/  1.3 MiB]  20% Done                                   '
+textPayload: '/ [7/15 files][ 19.4 KiB/  1.3 MiB]   1% Done                                   '
+textPayload: '/ [6/15 files][ 19.4 KiB/  1.3 MiB]   1% Done                                   '
+textPayload: '/ [5/15 files][  5.6 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [4/15 files][  5.6 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [3/15 files][  1.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [2/15 files][  1.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [1/15 files][  1.9 KiB/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_SJ.out.tab [Content-Type=application/octet-stream]...
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.progress.out
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Aligned.out.bam
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.out [Content-Type=application/octet-stream]...
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_ReadsPerGene.out.tab
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Chimeric.out.junction
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-TH00-BK000000.tmp
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-0.tmp
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-2.tmp
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-1.tmp
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/STAR_Log.final.out [Content-Type=application/octet-stream]...
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-3.tmp
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-LEVELMERGE.tmp
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: '/ [0/15 files][    0.0 B/  1.3 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/temp-core-000248-4200A9FE0102.sam-FTEST-4.tmp
+textPayload: Copying file://STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction.bed
+textPayload: 'File: annotated_result.tsv'
+textPayload: "Error reading file: [Errno 2] No such file or directory: 'annotated_result.tsv'"
+textPayload: "sed: can't read /app/STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.junction_ExonSpan.bed:\
+textPayload: |-
+textPayload: ' --> Read and Parsing Junction BED...'
+textPayload: 'awk: cannot open /app/STAR_align_M0253-1poolCL_S18_L001/Exon_Quant.jcounts
+textPayload: Convert FeatureCount Result .jcounts file to bed
+textPayload: 'ERROR: No paired-end reads were detected in paired-end read library
+textPayload: '|| Process BAM file STAR_Aligned.out.bam...                                   ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Chromosomes/contigs : 25                                                ||'
+textPayload: '||    Meta-features : 195101                                                  ||'
+textPayload: '||    Features : 1185907                                                      ||'
+textPayload: '|| Load annotation file ref_annot.gtf ...                                     ||'
+textPayload: '||                                                                            ||'
+textPayload: //================================= Running ==================================\\
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '||   Min overlapping bases : 1                                                ||'
+textPayload: '|| Multi-overlapping reads : not counted                                      ||'
+textPayload: '||      Multimapping reads : counted                                          ||'
+textPayload: '||                   Level : meta-feature level                               ||'
+textPayload: '||                 Threads : 8                                                ||'
+textPayload: '||                                                                            ||'
+textPayload: '||       Junction Counting : <output_file>.jcounts                            ||'
+textPayload: '||      Dir for temp files : /app/STAR_align_M0253-1poolCL_S18_L001           ||'
+textPayload: '||              Annotation : ref_annot.gtf (GTF)                              ||'
+textPayload: '||        Count read pairs : yes                                              ||'
+textPayload: '||              Paired-end : yes                                              ||'
+textPayload: '||                 Summary : Exon_Quant.summary                               ||'
+textPayload: '||             Output file : Exon_Quant                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: '||                           STAR_Aligned.out.bam                             ||'
+textPayload: '||                                                                            ||'
+textPayload: '||             Input files : 1 BAM file                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: //========================== featureCounts setting ===========================\\
+textPayload: "\t  v2.0.8"
+textPayload: '        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/'
+textPayload: '              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__|
+textPayload: '            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  |
+textPayload: '          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  |
+textPayload: '        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __
+textPayload: '        ==========     _____ _    _ ____  _____  ______          _____  '
+textPayload: Dec 02 07:08:47 ..... finished successfully
+textPayload: Dec 02 07:08:45 ..... finished mapping
+textPayload: Dec 02 07:08:44 ..... started mapping
+textPayload: Dec 02 07:01:25 ..... loading genome
+textPayload: Dec 02 07:01:25 ..... started STAR run
+textPayload: "\tSTAR version: 2.7.11a   compiled: 2023-08-15T11:38:34-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source"
+textPayload: "\t/usr/local/bin/STAR --genomeDir /app/db/ctat_genome_lib_build_dir/ref_genome.fa.star.idx\
+textPayload: File system has been successfully mounted.
+textPayload: |
+textPayload: 'Operation completed over 2 objects/40.0 B.                                       '
+textPayload: '/ [2 files][   40.0 B/   40.0 B]                                                '
+textPayload: '/ [1 files][   20.0 B/   40.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz...
+textPayload: '/ [1 files][   20.0 B/   20.0 B]                                                '
+textPayload: '/ [0 files][    0.0 B/   20.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1poolCL_S18_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz...

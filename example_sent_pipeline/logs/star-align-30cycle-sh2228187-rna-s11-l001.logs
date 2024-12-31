@@ -1,0 +1,521 @@
+textPayload: Container called exit(0).
+textPayload: ' --> 分析流程完成！'
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/30cycle-SH2228187-RNA_S11_L001-reports/Annotated_featurecount.xlsx '
+textPayload: ' --> 本地檔案：STAR_align_30cycle-SH2228187-RNA_S11_L001/Annotated_featurecount.xlsx '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/30cycle-SH2228187-RNA_S11_L001-reports/STAR_Log.final.out '
+textPayload: ' --> 本地檔案：STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.final.out '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/STAR_align_result/STAR_align_30cycle-SH2228187-RNA_S11_L001 '
+textPayload: ' --> 本地資料夾：STAR_align_30cycle-SH2228187-RNA_S11_L001 '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/Fusion_Preprocessed/30cycle-SH2228187-RNA_S11_L001-preprocess/trimmed_fq/primer_trimmed_R*_val_* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 14 objects/35.2 MiB.                                    '
+textPayload: '- [14/14 files][ 35.2 MiB/ 35.2 MiB] 100% Done                                  '
+textPayload: '-'
+textPayload: '/ [13/14 files][  1.7 MiB/ 35.2 MiB]   4% Done                                  '
+textPayload: '/ [12/14 files][  1.4 MiB/ 35.2 MiB]   4% Done                                  '
+textPayload: '/ [11/14 files][  1.4 MiB/ 35.2 MiB]   4% Done                                  '
+textPayload: '/ [10/14 files][  1.4 MiB/ 35.2 MiB]   4% Done                                  '
+textPayload: '/ [9/14 files][  1.4 MiB/ 35.2 MiB]   4% Done                                   '
+textPayload: '/ [8/14 files][  1.4 MiB/ 35.2 MiB]   4% Done                                   '
+textPayload: '/ [7/14 files][932.3 KiB/ 35.2 MiB]   2% Done                                   '
+textPayload: '/ [6/14 files][932.3 KiB/ 35.2 MiB]   2% Done                                   '
+textPayload: '/ [5/14 files][140.3 KiB/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [4/14 files][140.3 KiB/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [3/14 files][111.3 KiB/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [2/14 files][102.5 KiB/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [1/14 files][ 50.1 KiB/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.out
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Chimeric.out.junction
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.progress.out
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Aligned.out.bam
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_SJ.out.tab
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_ReadsPerGene.out.tab
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.final.out
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant [Content-Type=application/octet-stream]...
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant.jcounts
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant.summary
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant.junction.bed
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant.junction_ExonSpan.bed
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Annotated_featurecount.xlsx
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/annotated_result.tsv
+textPayload: Exon span distance calculation completed.
+textPayload: ENST00000216181.5 exon span distance = 1.
+textPayload: ENST00000394480.2 exon span distance = 1.
+textPayload: ENST00000394480.2 exon span distance = 1.
+textPayload: ENST00000394480.2 exon span distance = 1.
+textPayload: ENST00000394480.2 exon span distance = 1.
+textPayload: ENST00000342314.5 exon span distance = 1.
+textPayload: ENST00000473125.1 exon span distance = 1.
+textPayload: ENST00000541275.1 exon span distance = 2.
+textPayload: ENST00000369061.4 exon span distance = 1.
+textPayload: ENST00000369061.4 exon span distance = 1.
+textPayload: ENST00000376213.1 exon span distance = 1.
+textPayload: ENST00000376213.1 exon span distance = 1.
+textPayload: ENST00000376213.1 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397752.3 exon span distance = 1.
+textPayload: ENST00000397752.3 exon span distance = 2.
+textPayload: ENST00000397752.3 exon span distance = 1.
+textPayload: ENST00000368301.2 exon span distance = 1.
+textPayload: ' --> Read and Parsing GTF...'
+textPayload: ' --> Read and Parsing Junction BED...'
+textPayload: Convert FeatureCount Result .jcounts file to bed
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '|| -SH2228187-RNA_S11_L001/Exon_Quant.summary"                                ||'
+textPayload: '|| Summary of counting results can be found in file "/app/STAR_align_30cycle  ||'
+textPayload: '||                                                                            ||'
+textPayload: '|| Write the read assignment summary.                                         ||'
+textPayload: '|| Write the junction count table.                                            ||'
+textPayload: '|| Write the final count table.                                               ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Running time : 0.00 minutes                                             ||'
+textPayload: '||    Successfully assigned alignments : 2 (0.8%)                             ||'
+textPayload: '||    Total alignments : 240                                                  ||'
+textPayload: '||    Paired-end reads are included.                                          ||'
+textPayload: '|| Process BAM file STAR_Aligned.out.bam...                                   ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Chromosomes/contigs : 25                                                ||'
+textPayload: '||    Meta-features : 195101                                                  ||'
+textPayload: '||    Features : 1185907                                                      ||'
+textPayload: '|| Load annotation file ref_annot.gtf ...                                     ||'
+textPayload: '||                                                                            ||'
+textPayload: //================================= Running ==================================\\
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '||   Min overlapping bases : 1                                                ||'
+textPayload: '|| Multi-overlapping reads : not counted                                      ||'
+textPayload: '||      Multimapping reads : counted                                          ||'
+textPayload: '||                   Level : meta-feature level                               ||'
+textPayload: '||                 Threads : 8                                                ||'
+textPayload: '||                                                                            ||'
+textPayload: '||       Junction Counting : <output_file>.jcounts                            ||'
+textPayload: '||      Dir for temp files : /app/STAR_align_30cycle-SH2228187-RNA_S11_L001   ||'
+textPayload: '||              Annotation : ref_annot.gtf (GTF)                              ||'
+textPayload: '||        Count read pairs : yes                                              ||'
+textPayload: '||              Paired-end : yes                                              ||'
+textPayload: '||                 Summary : Exon_Quant.summary                               ||'
+textPayload: '||             Output file : Exon_Quant                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: '||                           STAR_Aligned.out.bam                             ||'
+textPayload: '||                                                                            ||'
+textPayload: '||             Input files : 1 BAM file                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: //========================== featureCounts setting ===========================\\
+textPayload: "\t  v2.0.8"
+textPayload: '        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/'
+textPayload: '              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__|
+textPayload: '            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  |
+textPayload: '          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  |
+textPayload: '        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __
+textPayload: '        ==========     _____ _    _ ____  _____  ______          _____  '
+textPayload: Dec 03 03:59:19 ..... finished successfully
+textPayload: Dec 03 03:59:17 ..... finished mapping
+textPayload: Dec 03 03:59:16 ..... started mapping
+textPayload: Dec 03 03:51:50 ..... loading genome
+textPayload: Dec 03 03:51:50 ..... started STAR run
+textPayload: "\tSTAR version: 2.7.11a   compiled: 2023-08-15T11:38:34-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source"
+textPayload: "\t/usr/local/bin/STAR --genomeDir /app/db/ctat_genome_lib_build_dir/ref_genome.fa.star.idx\
+textPayload: File system has been successfully mounted.
+textPayload: |
+textPayload: 'Operation completed over 2 objects/14.9 KiB.                                     '
+textPayload: '/ [2 files][ 14.9 KiB/ 14.9 KiB]                                                '
+textPayload: '/ [1 files][  7.4 KiB/ 14.9 KiB]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/30cycle-SH2228187-RNA_S11_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz...
+textPayload: '/ [1 files][  7.4 KiB/  7.4 KiB]                                                '
+textPayload: '/ [0 files][    0.0 B/  7.4 KiB]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/30cycle-SH2228187-RNA_S11_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz...
+textPayload: Container called exit(0).
+textPayload: ' --> 分析流程完成！'
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/30cycle-SH2228187-RNA_S11_L001-reports/Annotated_featurecount.xlsx '
+textPayload: ' --> 本地檔案：STAR_align_30cycle-SH2228187-RNA_S11_L001/Annotated_featurecount.xlsx '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/30cycle-SH2228187-RNA_S11_L001-reports/STAR_Log.final.out '
+textPayload: ' --> 本地檔案：STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.final.out '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/STAR_align_result/STAR_align_30cycle-SH2228187-RNA_S11_L001 '
+textPayload: ' --> 本地資料夾：STAR_align_30cycle-SH2228187-RNA_S11_L001 '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/Fusion_Preprocessed/30cycle-SH2228187-RNA_S11_L001-preprocess/trimmed_fq/primer_trimmed_R*_val_* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 14 objects/35.2 MiB.                                    '
+textPayload: '-'
+textPayload: '/ [14/14 files][ 35.2 MiB/ 35.2 MiB] 100% Done                                  '
+textPayload: '/ [13/14 files][  7.1 MiB/ 35.2 MiB]  20% Done                                  '
+textPayload: '/ [12/14 files][  1.4 MiB/ 35.2 MiB]   4% Done                                  '
+textPayload: '/ [11/14 files][  1.4 MiB/ 35.2 MiB]   4% Done                                  '
+textPayload: '/ [10/14 files][  1.4 MiB/ 35.2 MiB]   4% Done                                  '
+textPayload: '/ [9/14 files][  1.4 MiB/ 35.2 MiB]   4% Done                                   '
+textPayload: '/ [8/14 files][  1.4 MiB/ 35.2 MiB]   4% Done                                   '
+textPayload: '/ [7/14 files][  1.4 MiB/ 35.2 MiB]   4% Done                                   '
+textPayload: '/ [6/14 files][  1.4 MiB/ 35.2 MiB]   4% Done                                   '
+textPayload: '/ [5/14 files][  1.4 MiB/ 35.2 MiB]   4% Done                                   '
+textPayload: '/ [4/14 files][932.3 KiB/ 35.2 MiB]   2% Done                                   '
+textPayload: '/ [3/14 files][140.3 KiB/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [2/14 files][103.0 KiB/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [1/14 files][ 44.4 KiB/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.out
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.progress.out
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_SJ.out.tab
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_ReadsPerGene.out.tab
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Aligned.out.bam
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Chimeric.out.junction
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant [Content-Type=application/octet-stream]...
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.final.out
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant.jcounts
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant.summary
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant.junction.bed
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant.junction_ExonSpan.bed
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Annotated_featurecount.xlsx
+textPayload: '/ [0/14 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/annotated_result.tsv
+textPayload: Exon span distance calculation completed.
+textPayload: ENST00000216181.5 exon span distance = 1.
+textPayload: ENST00000394480.2 exon span distance = 1.
+textPayload: ENST00000394480.2 exon span distance = 1.
+textPayload: ENST00000394480.2 exon span distance = 1.
+textPayload: ENST00000394480.2 exon span distance = 1.
+textPayload: ENST00000342314.5 exon span distance = 1.
+textPayload: ENST00000473125.1 exon span distance = 1.
+textPayload: ENST00000541275.1 exon span distance = 2.
+textPayload: ENST00000369061.4 exon span distance = 1.
+textPayload: ENST00000369061.4 exon span distance = 1.
+textPayload: ENST00000376213.1 exon span distance = 1.
+textPayload: ENST00000376213.1 exon span distance = 1.
+textPayload: ENST00000376213.1 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397752.3 exon span distance = 1.
+textPayload: ENST00000397752.3 exon span distance = 2.
+textPayload: ENST00000397752.3 exon span distance = 1.
+textPayload: ENST00000368301.2 exon span distance = 1.
+textPayload: ' --> Read and Parsing GTF...'
+textPayload: ' --> Read and Parsing Junction BED...'
+textPayload: Convert FeatureCount Result .jcounts file to bed
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '|| -SH2228187-RNA_S11_L001/Exon_Quant.summary"                                ||'
+textPayload: '|| Summary of counting results can be found in file "/app/STAR_align_30cycle  ||'
+textPayload: '||                                                                            ||'
+textPayload: '|| Write the read assignment summary.                                         ||'
+textPayload: '|| Write the junction count table.                                            ||'
+textPayload: '|| Write the final count table.                                               ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Running time : 0.00 minutes                                             ||'
+textPayload: '||    Successfully assigned alignments : 2 (0.8%)                             ||'
+textPayload: '||    Total alignments : 240                                                  ||'
+textPayload: '||    Paired-end reads are included.                                          ||'
+textPayload: '|| Process BAM file STAR_Aligned.out.bam...                                   ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Chromosomes/contigs : 25                                                ||'
+textPayload: '||    Meta-features : 195101                                                  ||'
+textPayload: '||    Features : 1185907                                                      ||'
+textPayload: '|| Load annotation file ref_annot.gtf ...                                     ||'
+textPayload: '||                                                                            ||'
+textPayload: //================================= Running ==================================\\
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '||   Min overlapping bases : 1                                                ||'
+textPayload: '|| Multi-overlapping reads : not counted                                      ||'
+textPayload: '||      Multimapping reads : counted                                          ||'
+textPayload: '||                   Level : meta-feature level                               ||'
+textPayload: '||                 Threads : 8                                                ||'
+textPayload: '||                                                                            ||'
+textPayload: '||       Junction Counting : <output_file>.jcounts                            ||'
+textPayload: '||      Dir for temp files : /app/STAR_align_30cycle-SH2228187-RNA_S11_L001   ||'
+textPayload: '||              Annotation : ref_annot.gtf (GTF)                              ||'
+textPayload: '||        Count read pairs : yes                                              ||'
+textPayload: '||              Paired-end : yes                                              ||'
+textPayload: '||                 Summary : Exon_Quant.summary                               ||'
+textPayload: '||             Output file : Exon_Quant                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: '||                           STAR_Aligned.out.bam                             ||'
+textPayload: '||                                                                            ||'
+textPayload: '||             Input files : 1 BAM file                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: //========================== featureCounts setting ===========================\\
+textPayload: "\t  v2.0.8"
+textPayload: '        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/'
+textPayload: '              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__|
+textPayload: '            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  |
+textPayload: '          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  |
+textPayload: '        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __
+textPayload: '        ==========     _____ _    _ ____  _____  ______          _____  '
+textPayload: Dec 03 02:53:26 ..... finished successfully
+textPayload: Dec 03 02:53:25 ..... finished mapping
+textPayload: Dec 03 02:53:24 ..... started mapping
+textPayload: Dec 03 02:45:59 ..... loading genome
+textPayload: Dec 03 02:45:59 ..... started STAR run
+textPayload: "\tSTAR version: 2.7.11a   compiled: 2023-08-15T11:38:34-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source"
+textPayload: "\t/usr/local/bin/STAR --genomeDir /app/db/ctat_genome_lib_build_dir/ref_genome.fa.star.idx\
+textPayload: File system has been successfully mounted.
+textPayload: |
+textPayload: 'Operation completed over 2 objects/14.9 KiB.                                     '
+textPayload: '/ [2 files][ 14.9 KiB/ 14.9 KiB]                                                '
+textPayload: '/ [1 files][  7.4 KiB/ 14.9 KiB]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/30cycle-SH2228187-RNA_S11_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz...
+textPayload: '/ [1 files][  7.4 KiB/  7.4 KiB]                                                '
+textPayload: '/ [0 files][    0.0 B/  7.4 KiB]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/30cycle-SH2228187-RNA_S11_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz...
+textPayload: Container called exit(0).
+textPayload: 上傳結果失敗, 分析流程結束
+textPayload: "上傳結果失敗: [Errno 2] No such file or directory: 'STAR_align_30cycle-SH2228187-RNA_S11_L001/Annotated_featurecount.xlsx'"
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/30cycle-SH2228187-RNA_S11_L001-reports/STAR_Log.final.out '
+textPayload: ' --> 本地檔案：STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.final.out '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/STAR_align_result/STAR_align_30cycle-SH2228187-RNA_S11_L001 '
+textPayload: ' --> 本地資料夾：STAR_align_30cycle-SH2228187-RNA_S11_L001 '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/Fusion_Preprocessed/30cycle-SH2228187-RNA_S11_L001-preprocess/trimmed_fq/primer_trimmed_R*_val_* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 7 objects/1.4 MiB.                                      '
+textPayload: '/ [7/7 files][  1.4 MiB/  1.4 MiB] 100% Done                                    '
+textPayload: '/ [6/7 files][  1.4 MiB/  1.4 MiB]  99% Done                                    '
+textPayload: '/ [5/7 files][  1.4 MiB/  1.4 MiB]  99% Done                                    '
+textPayload: '/ [4/7 files][  1.4 MiB/  1.4 MiB]  99% Done                                    '
+textPayload: '/ [3/7 files][  1.4 MiB/  1.4 MiB]  99% Done                                    '
+textPayload: '/ [2/7 files][  1.3 MiB/  1.4 MiB]  98% Done                                    '
+textPayload: '/ [1/7 files][  1.9 KiB/  1.4 MiB]   0% Done                                    '
+textPayload: '/ [0/7 files][    0.0 B/  1.4 MiB]   0% Done                                    '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_SJ.out.tab
+textPayload: '/ [0/7 files][    0.0 B/  1.4 MiB]   0% Done                                    '
+textPayload: '/ [0/7 files][    0.0 B/  1.4 MiB]   0% Done                                    '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.out
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.progress.out
+textPayload: '/ [0/7 files][    0.0 B/  1.4 MiB]   0% Done                                    '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Aligned.out.bam
+textPayload: '/ [0/7 files][    0.0 B/  1.4 MiB]   0% Done                                    '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Chimeric.out.junction
+textPayload: '/ [0/7 files][    0.0 B/  1.4 MiB]   0% Done                                    '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_ReadsPerGene.out.tab
+textPayload: '/ [0/7 files][    0.0 B/  1.4 MiB]   0% Done                                    '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.final.out
+textPayload: 'File: annotated_result.tsv'
+textPayload: "Error reading file: [Errno 2] No such file or directory: 'annotated_result.tsv'"
+textPayload: "sed: can't read /app/STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant.junction_ExonSpan.bed:\
+textPayload: |-
+textPayload: ' --> Read and Parsing Junction BED...'
+textPayload: Dec 02 09:29:10 ..... finished successfully
+textPayload: Dec 02 09:29:08 ..... finished mapping
+textPayload: Dec 02 09:29:07 ..... started mapping
+textPayload: Cloud Run task resuming after scheduled maintenance
+textPayload: Cloud Run task pausing due to scheduled maintenance
+textPayload: Dec 02 09:21:48 ..... loading genome
+textPayload: Dec 02 09:21:48 ..... started STAR run
+textPayload: "\tSTAR version: 2.7.11a   compiled: 2023-08-15T11:38:34-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source"
+textPayload: "\t/usr/local/bin/STAR --genomeDir /app/db/ctat_genome_lib_build_dir/ref_genome.fa.star.idx\
+textPayload: File system has been successfully mounted.
+textPayload: |
+textPayload: 'Operation completed over 2 objects/14.9 KiB.                                     '
+textPayload: '/ [2 files][ 14.9 KiB/ 14.9 KiB]                                                '
+textPayload: '/ [1 files][  7.4 KiB/ 14.9 KiB]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/30cycle-SH2228187-RNA_S11_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz...
+textPayload: '/ [1 files][  7.4 KiB/  7.4 KiB]                                                '
+textPayload: '/ [0 files][    0.0 B/  7.4 KiB]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/30cycle-SH2228187-RNA_S11_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz...
+textPayload: Container called exit(0).
+textPayload: ' --> 分析流程完成！'
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/30cycle-SH2228187-RNA_S11_L001-reports/Annotated_featurecount.xlsx '
+textPayload: ' --> 本地檔案：STAR_align_30cycle-SH2228187-RNA_S11_L001/Annotated_featurecount.xlsx '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/30cycle-SH2228187-RNA_S11_L001-reports/STAR_Log.final.out '
+textPayload: ' --> 本地檔案：STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.final.out '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/STAR_align_result/STAR_align_30cycle-SH2228187-RNA_S11_L001 '
+textPayload: ' --> 本地資料夾：STAR_align_30cycle-SH2228187-RNA_S11_L001 '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/Fusion_Preprocessed/30cycle-SH2228187-RNA_S11_L001-preprocess/trimmed_fq/primer_trimmed_R*_val_* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...1 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 13 objects/35.2 MiB.                                    '
+textPayload: '-'
+textPayload: '/ [13/13 files][ 35.2 MiB/ 35.2 MiB] 100% Done                                  '
+textPayload: '/ [12/13 files][  1.7 MiB/ 35.2 MiB]   4% Done                                  '
+textPayload: '/ [11/13 files][  1.4 MiB/ 35.2 MiB]   3% Done                                  '
+textPayload: '/ [10/13 files][  1.4 MiB/ 35.2 MiB]   3% Done                                  '
+textPayload: '/ [9/13 files][  1.4 MiB/ 35.2 MiB]   3% Done                                   '
+textPayload: '/ [8/13 files][  1.4 MiB/ 35.2 MiB]   3% Done                                   '
+textPayload: '/ [7/13 files][  1.4 MiB/ 35.2 MiB]   3% Done                                   '
+textPayload: '/ [6/13 files][  1.4 MiB/ 35.2 MiB]   3% Done                                   '
+textPayload: '/ [5/13 files][ 96.9 KiB/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [4/13 files][ 55.6 KiB/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [3/13 files][ 55.6 KiB/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [2/13 files][ 55.6 KiB/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [1/13 files][ 55.6 KiB/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [0/13 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Aligned.out.bam
+textPayload: '/ [0/13 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.progress.out
+textPayload: '/ [0/13 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.out
+textPayload: '/ [0/13 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_ReadsPerGene.out.tab
+textPayload: '/ [0/13 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_SJ.out.tab
+textPayload: '/ [0/13 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Log.final.out
+textPayload: '/ [0/13 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant [Content-Type=application/octet-stream]...
+textPayload: '/ [0/13 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/STAR_Chimeric.out.junction
+textPayload: '/ [0/13 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [0/13 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant.jcounts
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant.junction.bed
+textPayload: '/ [0/13 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant.summary
+textPayload: '/ [0/13 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: '/ [0/13 files][    0.0 B/ 35.2 MiB]   0% Done                                   '
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Exon_Quant.junction_ExonSpan.bed
+textPayload: Copying file://STAR_align_30cycle-SH2228187-RNA_S11_L001/Annotated_featurecount.xlsx
+textPayload: Exon span distance calculation completed.
+textPayload: ENST00000216181.5 exon span distance = 1.
+textPayload: ENST00000394480.2 exon span distance = 1.
+textPayload: ENST00000394480.2 exon span distance = 1.
+textPayload: ENST00000394480.2 exon span distance = 1.
+textPayload: ENST00000394480.2 exon span distance = 1.
+textPayload: ENST00000342314.5 exon span distance = 1.
+textPayload: ENST00000473125.1 exon span distance = 1.
+textPayload: ENST00000541275.1 exon span distance = 2.
+textPayload: ENST00000369061.4 exon span distance = 1.
+textPayload: ENST00000369061.4 exon span distance = 1.
+textPayload: ENST00000376213.1 exon span distance = 1.
+textPayload: ENST00000376213.1 exon span distance = 1.
+textPayload: ENST00000376213.1 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397091.5 exon span distance = 1.
+textPayload: ENST00000397752.3 exon span distance = 1.
+textPayload: ENST00000397752.3 exon span distance = 2.
+textPayload: ENST00000397752.3 exon span distance = 1.
+textPayload: ENST00000368301.2 exon span distance = 1.
+textPayload: ' --> Read and Parsing GTF...'
+textPayload: ' --> Read and Parsing Junction BED...'
+textPayload: Convert FeatureCount Result .jcounts file to bed
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '|| -SH2228187-RNA_S11_L001/Exon_Quant.summary"                                ||'
+textPayload: '|| Summary of counting results can be found in file "/app/STAR_align_30cycle  ||'
+textPayload: '||                                                                            ||'
+textPayload: '|| Write the read assignment summary.                                         ||'
+textPayload: '|| Write the junction count table.                                            ||'
+textPayload: '|| Write the final count table.                                               ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Running time : 0.00 minutes                                             ||'
+textPayload: '||    Successfully assigned alignments : 2 (0.8%)                             ||'
+textPayload: '||    Total alignments : 240                                                  ||'
+textPayload: '||    Paired-end reads are included.                                          ||'
+textPayload: '|| Process BAM file STAR_Aligned.out.bam...                                   ||'
+textPayload: '||                                                                            ||'
+textPayload: '||    Chromosomes/contigs : 25                                                ||'
+textPayload: '||    Meta-features : 195101                                                  ||'
+textPayload: '||    Features : 1185907                                                      ||'
+textPayload: '|| Load annotation file ref_annot.gtf ...                                     ||'
+textPayload: '||                                                                            ||'
+textPayload: //================================= Running ==================================\\
+textPayload: \\============================================================================//
+textPayload: '||                                                                            ||'
+textPayload: '||   Min overlapping bases : 1                                                ||'
+textPayload: '|| Multi-overlapping reads : not counted                                      ||'
+textPayload: '||      Multimapping reads : counted                                          ||'
+textPayload: '||                   Level : meta-feature level                               ||'
+textPayload: '||                 Threads : 8                                                ||'
+textPayload: '||                                                                            ||'
+textPayload: '||       Junction Counting : <output_file>.jcounts                            ||'
+textPayload: '||      Dir for temp files : /app/STAR_align_30cycle-SH2228187-RNA_S11_L001   ||'
+textPayload: '||              Annotation : ref_annot.gtf (GTF)                              ||'
+textPayload: '||        Count read pairs : yes                                              ||'
+textPayload: '||              Paired-end : yes                                              ||'
+textPayload: '||                 Summary : Exon_Quant.summary                               ||'
+textPayload: '||             Output file : Exon_Quant                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: '||                           STAR_Aligned.out.bam                             ||'
+textPayload: '||                                                                            ||'
+textPayload: '||             Input files : 1 BAM file                                       ||'
+textPayload: '||                                                                            ||'
+textPayload: //========================== featureCounts setting ===========================\\
+textPayload: "\t  v2.0.8"
+textPayload: '        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/'
+textPayload: '              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__|
+textPayload: '            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  |
+textPayload: '          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  |
+textPayload: '        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __
+textPayload: '        ==========     _____ _    _ ____  _____  ______          _____  '
+textPayload: Dec 02 07:07:42 ..... finished successfully
+textPayload: Dec 02 07:07:40 ..... finished mapping
+textPayload: Dec 02 07:07:39 ..... started mapping
+textPayload: Dec 02 07:00:15 ..... loading genome
+textPayload: Dec 02 07:00:15 ..... started STAR run
+textPayload: "\tSTAR version: 2.7.11a   compiled: 2023-08-15T11:38:34-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source"
+textPayload: "\t/usr/local/bin/STAR --genomeDir /app/db/ctat_genome_lib_build_dir/ref_genome.fa.star.idx\
+textPayload: File system has been successfully mounted.
+textPayload: |
+textPayload: 'Operation completed over 2 objects/14.9 KiB.                                     '
+textPayload: '/ [2 files][ 14.9 KiB/ 14.9 KiB]                                                '
+textPayload: '/ [1 files][  7.4 KiB/ 14.9 KiB]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/30cycle-SH2228187-RNA_S11_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz...
+textPayload: '/ [1 files][  7.4 KiB/  7.4 KiB]                                                '
+textPayload: '/ [0 files][    0.0 B/  7.4 KiB]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/30cycle-SH2228187-RNA_S11_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz...

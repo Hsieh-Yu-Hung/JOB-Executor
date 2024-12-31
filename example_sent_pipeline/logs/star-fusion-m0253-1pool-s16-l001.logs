@@ -1,0 +1,261 @@
+textPayload: Container called exit(0).
+textPayload: ' --> 分析流程完成！'
+textPayload: ' --> 上傳到：STAR-FUSION/SF_Reports/M0253-1pool_S16_L001-reports '
+textPayload: ' --> 本地檔案：STAR_fusion_M0253-1pool_S16_L001/*.xlsx '
+textPayload: ' --> [上傳檔案] '
+textPayload: ' --> 上傳到：STAR-FUSION/STAR_FUSION_Result/STAR_fusion_M0253-1pool_S16_L001 '
+textPayload: ' --> 本地資料夾：STAR_fusion_M0253-1pool_S16_L001 '
+textPayload: ' --> [上傳資料夾] '
+textPayload: ' --> 上傳結果...'
+textPayload: ' --> 執行 CLI 指令...'
+textPayload: ' --> 解析 CLI 腳本...'
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/Fusion_Preprocessed/M0253-1pool_S16_L001-preprocess/trimmed_fq/primer_trimmed_R*_val_* '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載到：./ '
+textPayload: ' --> 遠端檔案：STAR-FUSION/STAR_align_result/STAR_align_M0253-1pool_S16_L001/*Chimeric.out.junction '
+textPayload: ' --> [下載檔案] '
+textPayload: ' --> 下載資料...2 個'
+textPayload: ' --> 開始跑分析流程...'
+textPayload: 'Operation completed over 2 objects/9.6 KiB.                                      '
+textPayload: '/ [2 files][  9.6 KiB/  9.6 KiB]                                                '
+textPayload: '/ [1 files][  4.8 KiB/  9.6 KiB]                                                '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/group_pair_counts_primer_starfusion.xlsx
+textPayload: '/ [1 files][  4.8 KiB/  4.8 KiB]                                                '
+textPayload: '/ [0 files][    0.0 B/  4.8 KiB]                                                '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/group_pair_counts_gene_starfusion.xlsx
+textPayload: 'Operation completed over 51 objects/17.6 KiB.                                    '
+textPayload: '- [51/51 files][ 17.6 KiB/ 17.6 KiB] 100% Done                                  '
+textPayload: '- [50/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '- [49/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '- [48/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '- [47/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '- [46/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '- [45/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '- [44/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '- [43/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '- [42/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '-'
+textPayload: '/ [41/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '/ [40/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '/ [39/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '/ [38/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '/ [37/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '/ [36/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '/ [35/51 files][ 17.6 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '/ [34/51 files][ 17.5 KiB/ 17.6 KiB]  99% Done                                  '
+textPayload: '/ [33/51 files][ 17.2 KiB/ 17.6 KiB]  97% Done                                  '
+textPayload: '/ [33/51 files][ 17.2 KiB/ 17.6 KiB]  97% Done                                  '
+textPayload: '/ [33/51 files][ 17.2 KiB/ 17.6 KiB]  97% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/_starF_checkpoints/star-fusion.map_chim_to_genes.ok
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/_starF_checkpoints/STAR-Fusion.filter.ok
+textPayload: '/ [32/51 files][ 17.2 KiB/ 17.6 KiB]  97% Done                                  '
+textPayload: '/ [31/51 files][ 17.2 KiB/ 17.6 KiB]  97% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/_starF_checkpoints/star-fusion.STAR-Fusion.predict.ok
+textPayload: '/ [31/51 files][ 17.2 KiB/ 17.6 KiB]  97% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/_starF_checkpoints/star-fusion.handle_multimappers.ok
+textPayload: '/ [31/51 files][ 17.2 KiB/ 17.6 KiB]  97% Done                                  '
+textPayload: '/ [30/51 files][ 17.2 KiB/ 17.6 KiB]  97% Done                                  '
+textPayload: '/ [29/51 files][ 17.2 KiB/ 17.6 KiB]  97% Done                                  '
+textPayload: '/ [29/51 files][ 17.1 KiB/ 17.6 KiB]  96% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/_starF_checkpoints/predicted_fusions_with_splice_info.ok
+textPayload: '/ [28/51 files][ 17.1 KiB/ 17.6 KiB]  96% Done                                  '
+textPayload: '/ [28/51 files][ 17.1 KiB/ 17.6 KiB]  96% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/_starF_checkpoints/annot_filter.ok
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/_starF_checkpoints/fusion_annotator.ok
+textPayload: '/ [28/51 files][ 17.1 KiB/ 17.6 KiB]  96% Done                                  '
+textPayload: '/ [27/51 files][ 16.9 KiB/ 17.6 KiB]  95% Done                                  '
+textPayload: '/ [26/51 files][ 16.9 KiB/ 17.6 KiB]  95% Done                                  '
+textPayload: '/ [26/51 files][ 16.9 KiB/ 17.6 KiB]  95% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/_starF_checkpoints/cp_final.ok
+textPayload: '/ [25/51 files][ 16.9 KiB/ 17.6 KiB]  95% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/_starF_checkpoints/RTartifact_filter.ok
+textPayload: '/ [25/51 files][ 16.9 KiB/ 17.6 KiB]  95% Done                                  '
+textPayload: '/ [24/51 files][ 16.9 KiB/ 17.6 KiB]  95% Done                                  '
+textPayload: '/ [23/51 files][ 16.7 KiB/ 17.6 KiB]  94% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/_starF_checkpoints/abridged_final
+textPayload: '/ [23/51 files][ 16.2 KiB/ 17.6 KiB]  92% Done                                  '
+textPayload: '/ [22/51 files][ 16.1 KiB/ 17.6 KiB]  91% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/_starF_checkpoints/coding_eff.ok
+textPayload: '/ [22/51 files][ 16.1 KiB/ 17.6 KiB]  91% Done                                  '
+textPayload: '/ [21/51 files][ 16.1 KiB/ 17.6 KiB]  91% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.filter.intermediates_dir/star-fusion.pre_blast_filter.filt_info
+textPayload: '/ [21/51 files][ 16.1 KiB/ 17.6 KiB]  91% Done                                  '
+textPayload: '/ [20/51 files][ 16.1 KiB/ 17.6 KiB]  91% Done                                  '
+textPayload: '/ [19/51 files][ 16.1 KiB/ 17.6 KiB]  91% Done                                  '
+textPayload: '/ [18/51 files][ 16.1 KiB/ 17.6 KiB]  91% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/_starF_checkpoints/extract_fusion_reads.ok
+textPayload: '/ [18/51 files][ 16.1 KiB/ 17.6 KiB]  91% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.fusion_candidates.preliminary.wSpliceInfo.wAnnot.annot_filter.pass.RTartifact.pass
+textPayload: '/ [18/51 files][ 15.5 KiB/ 17.6 KiB]  87% Done                                  '
+textPayload: '/ [17/51 files][ 15.2 KiB/ 17.6 KiB]  86% Done                                  '
+textPayload: '/ [16/51 files][ 15.2 KiB/ 17.6 KiB]  86% Done                                  '
+textPayload: '/ [15/51 files][ 15.2 KiB/ 17.6 KiB]  86% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.filter.intermediates_dir/star-fusion.pre_blast_filter.post_blast_filter.info
+textPayload: '/ [15/51 files][ 15.2 KiB/ 17.6 KiB]  86% Done                                  '
+textPayload: '/ [14/51 files][ 15.2 KiB/ 17.6 KiB]  86% Done                                  '
+textPayload: '/ [13/51 files][ 15.2 KiB/ 17.6 KiB]  86% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.junction_read_names
+textPayload: '/ [13/51 files][ 15.2 KiB/ 17.6 KiB]  86% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.filter.intermediates_dir/star-fusion.post_blast_and_promiscuity_filter
+textPayload: '/ [13/51 files][ 15.0 KiB/ 17.6 KiB]  85% Done                                  '
+textPayload: '/ [12/51 files][ 10.6 KiB/ 17.6 KiB]  60% Done                                  '
+textPayload: '/ [11/51 files][ 10.6 KiB/ 17.6 KiB]  60% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/tmp_chim_read_mappings_dir/chimJ_gene_mappings.thread_6
+textPayload: '/ [11/51 files][ 10.6 KiB/ 17.6 KiB]  60% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.filter.intermediates_dir/star-fusion.pre_blast_filter.post_blast_filter
+textPayload: '/ [11/51 files][ 10.6 KiB/ 17.6 KiB]  60% Done                                  '
+textPayload: '/ [10/51 files][ 10.6 KiB/ 17.6 KiB]  60% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.filter.intermediates_dir/star-fusion.pre_blast_filter.post_blast_filter.post_promisc_filter
+textPayload: '/ [10/51 files][ 10.6 KiB/ 17.6 KiB]  60% Done                                  '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.junction_breakpts_to_genes.txt.fail
+textPayload: '/ [10/51 files][ 10.6 KiB/ 17.6 KiB]  60% Done                                  '
+textPayload: '/ [9/51 files][ 10.6 KiB/ 17.6 KiB]  60% Done                                   '
+textPayload: '/ [8/51 files][ 10.6 KiB/ 17.6 KiB]  60% Done                                   '
+textPayload: '/ [7/51 files][ 10.4 KiB/ 17.6 KiB]  58% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.filter.intermediates_dir/star-fusion.pre_blast_filter.post_blast_filter.post_promisc_filter.info
+textPayload: '/ [7/51 files][ 10.4 KiB/ 17.6 KiB]  58% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.fusion_candidates.preliminary.wSpliceInfo
+textPayload: '/ [7/51 files][ 10.4 KiB/ 17.6 KiB]  58% Done                                   '
+textPayload: '/ [6/51 files][ 10.4 KiB/ 17.6 KiB]  58% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.fusion_candidates.preliminary.wSpliceInfo.wAnnot
+textPayload: '/ [6/51 files][ 10.2 KiB/ 17.6 KiB]  57% Done                                   '
+textPayload: '/ [5/51 files][ 10.2 KiB/ 17.6 KiB]  57% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.fusion_candidates.preliminary.wSpliceInfo.wAnnot.annot_filter.fail
+textPayload: '/ [5/51 files][ 10.2 KiB/ 17.6 KiB]  57% Done                                   '
+textPayload: '/ [4/51 files][ 10.2 KiB/ 17.6 KiB]  57% Done                                   '
+textPayload: '/ [3/51 files][ 10.2 KiB/ 17.6 KiB]  57% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.spanning_frag_names
+textPayload: '/ [3/51 files][ 10.2 KiB/ 17.6 KiB]  57% Done                                   '
+textPayload: '/ [2/51 files][ 10.2 KiB/ 17.6 KiB]  57% Done                                   '
+textPayload: '/ [2/51 files][ 10.2 KiB/ 17.6 KiB]  57% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/tmp_chim_read_mappings_dir/chimJ_gene_mappings.thread_7
+textPayload: '/ [1/51 files][ 10.2 KiB/ 17.6 KiB]  57% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.fusion_candidates.preliminary.wSpliceInfo.wAnnot.annot_filter.pass.RTartifact.filtered
+textPayload: '/ [1/51 files][ 10.0 KiB/ 17.6 KiB]  56% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.filter.intermediates_dir/star-fusion.pre_blast_filter
+textPayload: '/ [1/51 files][ 10.0 KiB/ 17.6 KiB]  56% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.filter.intermediates_dir/star-fusion.post_blast_and_promiscuity_filter.abridged
+textPayload: '/ [1/51 files][ 10.0 KiB/ 17.6 KiB]  56% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.fusion_candidates.preliminary
+textPayload: '/ [1/51 files][  4.8 KiB/ 17.6 KiB]  27% Done                                   '
+textPayload: '/ [1/51 files][  4.8 KiB/ 17.6 KiB]  27% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.fusion_candidates.preliminary.wSpliceInfo.wAnnot.annot_filter.pass
+textPayload: '/ [0/51 files][  4.8 KiB/ 17.6 KiB]  27% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.junction_breakpts_to_genes.txt
+textPayload: '/ [0/51 files][  4.8 KiB/ 17.6 KiB]  27% Done                                   '
+textPayload: '/ [0/51 files][  4.8 KiB/ 17.6 KiB]  27% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.fusion_candidates.preliminary.filtered
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/tmp_chim_read_mappings_dir/chimJ_gene_mappings.thread_1
+textPayload: '/ [0/51 files][  4.8 KiB/ 17.6 KiB]  27% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.junction_breakpts_to_genes.txt.pass
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/tmp_chim_read_mappings_dir/chimJ_gene_mappings.thread_4
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/pipeliner.421.cmds [Content-Type=application/octet-stream]...
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/tmp_chim_read_mappings_dir/chimJ_gene_mappings.thread_5
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/tmp_chim_read_mappings_dir/chimJ_gene_mappings.thread_8
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/tmp_chim_read_mappings_dir/chimJ_gene_mappings.thread_2
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.fusion_predictions.tsv
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/tmp_chim_read_mappings_dir/chimJ_gene_mappings.thread_3
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.fusion_predictions.abridged.tsv
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.fusion_predictions.abridged.coding_effect.tsv
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.fusion_evidence_reads_1.fq
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/_fi_inspect_637.ok [Content-Type=application/octet-stream]...
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/star-fusion.fusion_evidence_reads_2.fq
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/FusionInspector.log [Content-Type=application/octet-stream]...
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/group_pair_counts_primer_starfusion.xlsx
+textPayload: '/ [0/51 files][    0.0 B/ 17.6 KiB]   0% Done                                   '
+textPayload: Copying file://STAR_fusion_M0253-1pool_S16_L001/group_pair_counts_gene_starfusion.xlsx
+textPayload: 'No fusion prediction was found in: /app/STAR_fusion_M0253-1pool_S16_L001/star-fusion.fusion_predictions.abridged.tsv'
+textPayload: 'No fusions listed in input file: star-fusion.fusion_predictions.abridged.coding_effect.tsv,
+textPayload: '* Running CMD: /usr/local/src/STAR-Fusion/FusionInspector/FusionInspector
+textPayload: "\t* STAR-Fusion complete.  See output: /app/STAR_fusion_M0253-1pool_S16_L001/star-fusion.fusion_predictions.tsv\
+textPayload: Done.
+textPayload: Done writing to star-fusion.fusion_evidence_reads_2.fq
+textPayload: '-searching fq file: /app/primer_trimmed_R2_val_2.fq.gz'
+textPayload: Done writing to star-fusion.fusion_evidence_reads_1.fq
+textPayload: '-searching fq file: /app/primer_trimmed_R1_val_1.fq.gz'
+textPayload: '* Running CMD: /usr/local/src/STAR-Fusion/util/get_FUSION_EVIDENCE_fastqs.pl
+textPayload: '* Running CMD: /usr/local/src/STAR-Fusion/FusionAnnotator/util/fusion_to_coding_region_effect.pl  --fusions
+textPayload: '* Running CMD: /usr/local/src/STAR-Fusion/util/column_exclusions.pl
+textPayload: '* Running CMD: cp /app/STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.fusion_candidates.preliminary.wSpliceInfo.wAnnot.annot_filter.pass.RTartifact.pass
+textPayload: '-filter_likely_RT_artifacts: (pass: 0, filtered: 0)'
+textPayload: '* Running CMD: /usr/local/src/STAR-Fusion/util/filter_likely_RT_artifacts.pl
+textPayload: -done, see /app/STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.fusion_candidates.preliminary.wSpliceInfo.wAnnot.annot_filter.pass
+textPayload: '* Running CMD: /usr/local/src/STAR-Fusion/FusionFilter/util/filter_by_annotation_rules.pl
+textPayload: '* Running CMD: /usr/local/src/STAR-Fusion/FusionAnnotator/FusionAnnotator
+textPayload: '* Running CMD: /usr/local/src/STAR-Fusion/util/append_breakpoint_junction_info.pl
+textPayload: 'CMD: ln -sf /app/STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.filter.intermediates_dir/star-fusion.post_blast_and_promiscuity_filter
+textPayload: 'CMD: /usr/local/src/STAR-Fusion/util/column_exclusions.pl /app/STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.filter.intermediates_dir/star-fusion.post_blast_and_promiscuity_filter
+textPayload: 'CMD: cp /app/STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.filter.intermediates_dir/star-fusion.pre_blast_filter.post_blast_filter.post_promisc_filter
+textPayload: 'CMD: /usr/local/src/STAR-Fusion/FusionFilter/util/promiscuity_filter.pl
+textPayload: 'CMD: /usr/local/src/STAR-Fusion/FusionFilter/util/blast_filter.pl --fusion_preds
+textPayload: 'CMD: /usr/local/src/STAR-Fusion/util/../FusionFilter/blast_and_promiscuity_filter.pl
+textPayload: 'EM: Stopping iterations at round 1 due to insufficient improvement in
+textPayload: 'EM: Round [1] log likelihood: 0.000000'
+textPayload: 'EM: Starting log likelihood: 0.000000'
+textPayload: 'CMD: mkdir -p /app/STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.filter.intermediates_dir'
+textPayload: '* Running CMD: /usr/local/src/STAR-Fusion/util/STAR-Fusion.filter  --fusion_preds
+textPayload: '-outputting fusion candidates to file: /app/STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.fusion_candidates.preliminary'
+textPayload: '-parsing fusion evidence: /app/STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.junction_breakpts_to_genes.txt.pass'
+textPayload: '* Running CMD: /usr/local/src/STAR-Fusion/util/STAR-Fusion.predict  -J
+textPayload: done.
+textPayload: -parsing /app/STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary/star-fusion.junction_breakpts_to_genes.txt,
+textPayload: '* Running CMD: /usr/local/src/STAR-Fusion/util/STAR-Fusion.handle_multimapping_reads  -J
+textPayload: -mapping reads to genes
+textPayload: -done building interval tree (0.13 min).
+textPayload: -building interval tree based on /app/db/ctat_genome_lib_build_dir/ref_annot.gtf.mini.sortu
+textPayload: -mapping reads to genes
+textPayload: -done building interval tree (0.13 min).
+textPayload: -building interval tree based on /app/db/ctat_genome_lib_build_dir/ref_annot.gtf.mini.sortu
+textPayload: -mapping reads to genes
+textPayload: -done building interval tree (0.13 min).
+textPayload: -building interval tree based on /app/db/ctat_genome_lib_build_dir/ref_annot.gtf.mini.sortu
+textPayload: -mapping reads to genes
+textPayload: -done building interval tree (0.13 min).
+textPayload: -building interval tree based on /app/db/ctat_genome_lib_build_dir/ref_annot.gtf.mini.sortu
+textPayload: -mapping reads to genes
+textPayload: -done building interval tree (0.13 min).
+textPayload: -building interval tree based on /app/db/ctat_genome_lib_build_dir/ref_annot.gtf.mini.sortu
+textPayload: -mapping reads to genes
+textPayload: -done building interval tree (0.13 min).
+textPayload: -building interval tree based on /app/db/ctat_genome_lib_build_dir/ref_annot.gtf.mini.sortu
+textPayload: -mapping reads to genes
+textPayload: -done building interval tree (0.13 min).
+textPayload: -building interval tree based on /app/db/ctat_genome_lib_build_dir/ref_annot.gtf.mini.sortu
+textPayload: -mapping reads to genes
+textPayload: -done building interval tree (0.13 min).
+textPayload: -building interval tree based on /app/db/ctat_genome_lib_build_dir/ref_annot.gtf.mini.sortu
+textPayload: '-parsing fusion evidence: /app/STAR_Chimeric.out.junction'
+textPayload: '* Running CMD: /usr/local/src/STAR-Fusion/util/STAR-Fusion.map_chimeric_reads_to_genes  --genome_lib_dir
+textPayload: -sample contains 0 rnaseq fragments
+textPayload: 'CMD: mkdir -p /app/STAR_fusion_M0253-1pool_S16_L001/star-fusion.preliminary'
+textPayload: 'CMD: mkdir -p /app/STAR_fusion_M0253-1pool_S16_L001/_starF_checkpoints'
+textPayload: 'CMD: mkdir -p /app/STAR_fusion_M0253-1pool_S16_L001'
+textPayload: -ctat genome lib [/app/db/ctat_genome_lib_build_dir] validates.
+textPayload: File system has been successfully mounted.
+textPayload: |
+textPayload: 'Operation completed over 2 objects/40.0 B.                                       '
+textPayload: '/ [2 files][   40.0 B/   40.0 B]                                                '
+textPayload: '/ [1 files][   20.0 B/   40.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1pool_S16_L001-preprocess/trimmed_fq/primer_trimmed_R2_val_2.fq.gz...
+textPayload: '/ [1 files][   20.0 B/   20.0 B]                                                '
+textPayload: '/ [0 files][    0.0 B/   20.0 B]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/Fusion_Preprocessed/M0253-1pool_S16_L001-preprocess/trimmed_fq/primer_trimmed_R1_val_1.fq.gz...
+textPayload: 'Operation completed over 1 objects/1.3 KiB.                                      '
+textPayload: '/ [1 files][  1.3 KiB/  1.3 KiB]                                                '
+textPayload: '/ [0 files][    0.0 B/  1.3 KiB]                                                '
+textPayload: Copying gs://accuinbio-core-dev/STAR-FUSION/STAR_align_result/STAR_align_M0253-1pool_S16_L001/STAR_Chimeric.out.junction...
