@@ -17,6 +17,24 @@
 * 若是 'cloud' 模式則會依序送出 STAR-Fusion 幾個步驟的 Cloud Run Job 並等待結果, log 和 config 會上傳至 GCS
 * 若是 'local' 模式則會使用 docker 在指定 image 的 container 中執行所提供的 shell scripts, log 和 config 會存到本地
 
+### 運作方式
+1. 由腳本生成 config 檔, 並將 <SAMPLE ID> 替換至設定檔內
+2. 執行指令`python sent_jobs.py`並檢查其執行結果
+3. 在腳本內執行多個步驟, 每步執行由以下函式監督
+＊ 每一個步驟獨立測試時必須確保他意外終止後會返回狀態碼 1  
+
+```bash
+# 定義一個函數來執行指令並檢查其執行結果
+function execute_and_check() {
+    "$@"
+    local status=$?
+    if [ $status -ne 0 ]; then
+        echo "Error: Command '$*' failed with status $status"
+        exit $status
+    fi
+}
+```
+
 ### 範例檔案
 
 * General Config: 含特殊字串供替換 `<SAMPLE ID>`使用, 範例：configs/General_configs/JOB_Preporcess.conf, 替換字串為 __ SAMPLE_ID __
