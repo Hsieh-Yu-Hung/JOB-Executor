@@ -11,6 +11,10 @@ python sent_jobs.py \
   --job_name <工作名稱(gcloud只接受小寫英文字！)> \
   --run_mode $mode
 ```
+
+## 建構/使用 Pipeline
+請參考 [example_sent_pipeline](https://github.com/Hsieh-Yu-Hung/JOB-Executor/tree/main/example_sent_pipeline) 的內容
+
 ## 工作設定檔規範
 - 格式：JSON 檔案
 - 項目：
